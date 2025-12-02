@@ -1,0 +1,228 @@
+2025-12-02 01:31:19.939 [error] Failed to check if file sync is enabled for user {}
+2025-12-02 01:31:19.939 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:31:19.939 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:31:20.238 [info] [registerEventListeners] Registering event listeners
+2025-12-02 01:31:21.564 [error] Failed to check if file sync is enabled for user {"name":"ConnectError","rawMessage":"Error","code":16,"metadata":{},"details":[{"type":"aiserver.v1.ErrorDetails","value":{"0":8,"1":2,"2":18,"3":85,"4":10,"5":14,"6":78,"7":111,"8":116,"9":32,"10":108,"11":111,"12":103,"13":103,"14":101,"15":100,"16":32,"17":105,"18":110,"19":46,"20":18,"21":65,"22":78,"23":111,"24":116,"25":32,"26":108,"27":111,"28":103,"29":103,"30":101,"31":100,"32":32,"33":105,"34":110,"35":46,"36":32,"37":73,"38":102,"39":32,"40":121,"41":111,"42":117,"43":32,"44":97,"45":114,"46":101,"47":32,"48":108,"49":111,"50":103,"51":103,"52":101,"53":100,"54":32,"55":105,"56":110,"57":44,"58":32,"59":116,"60":114,"61":121,"62":32,"63":108,"64":111,"65":103,"66":103,"67":105,"68":110,"69":103,"70":32,"71":111,"72":117,"73":116,"74":32,"75":97,"76":110,"77":100,"78":32,"79":98,"80":97,"81":99,"82":107,"83":32,"84":105,"85":110,"86":46,"87":32,"88":0,"89":24,"90":1},"debug":{"error":"ERROR_NOT_LOGGED_IN","details":{"title":"Not logged in.","detail":"Not logged in. If you are logged in, try logging out and back in.","isRetryable":false},"isExpected":true}}]}
+2025-12-02 01:31:21.564 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:31:21.564 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:33:44.213 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 01:33:44.213 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:33:44.214 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:34:43.684 [error] Failed to check if file sync is enabled for user {}
+2025-12-02 01:34:43.684 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:34:43.684 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:34:43.880 [info] [registerEventListeners] Registering event listeners
+2025-12-02 01:34:47.035 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 01:34:47.035 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:34:47.035 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:34:50.682 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 01:34:51.339 [info] Starting sync of visible tabs
+2025-12-02 01:34:51.339 [info] Synced all visible tabs in 0.32010499999887543ms
+2025-12-02 01:34:52.807 [info] Fetched fsConfig in 2124.1620629999998ms
+2025-12-02 01:34:52.807 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-02 01:34:52.807 [info] File sync enabled status: true
+2025-12-02 01:34:52.807 [info] Starting sync of visible tabs
+2025-12-02 01:34:52.808 [info] Synced all visible tabs in 0.05873700000120152ms
+2025-12-02 01:34:52.809 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 01:34:53.306 [info] Fetched fsConfig in 497.2341889999989ms
+2025-12-02 01:34:53.306 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-02 01:35:37.663 [error] Failed to check if file sync is enabled for user {}
+2025-12-02 01:35:37.663 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:35:37.663 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-02 01:35:37.882 [info] [registerEventListeners] Registering event listeners
+2025-12-02 01:35:39.427 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 01:35:39.846 [info] Fetched fsConfig in 417.5537780000004ms
+2025-12-02 01:35:39.846 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-02 01:35:44.136 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 01:35:44.763 [info] Starting sync of visible tabs
+2025-12-02 01:35:44.763 [info] Synced all visible tabs in 0.36014299999988ms
+2025-12-02 01:35:45.058 [info] Fetched fsConfig in 921.5014479999991ms
+2025-12-02 01:35:45.058 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-02 01:35:45.058 [info] File sync enabled status: true
+2025-12-02 01:35:45.058 [info] Starting sync of visible tabs
+2025-12-02 01:35:45.058 [info] Synced all visible tabs in 0.09542599999986123ms
+2025-12-02 01:35:45.114 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 01:35:45.497 [info] Fetched fsConfig in 382.0973950000007ms
+2025-12-02 01:35:45.497 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-02 01:36:22.158 [info] Uploaded file index.html modelVersion=3 in 331.673526999999ms
+2025-12-02 01:36:22.158 [info] Handled visible editors change in 518.8338929999954ms
+2025-12-02 01:37:33.913 [info] Handled visible editors change in 0.23025399999460205ms
+2025-12-02 01:37:54.753 [info] Uploaded file index.html modelVersion=1 in 1123.4968829999852ms
+2025-12-02 01:37:54.753 [info] Handled visible editors change in 1275.741589000012ms
+2025-12-02 01:38:06.574 [info] Handled visible editors change in 0.21177199998055585ms
+2025-12-02 01:39:19.695 [info] Handled visible editors change in 0.44545600001583807ms
+2025-12-02 01:40:41.329 [info] Handled visible editors change in 0.30818699998781085ms
+2025-12-02 01:40:42.392 [info] Uploaded file Q1.html modelVersion=1 in 954.6838030000217ms
+2025-12-02 01:40:42.392 [info] Handled visible editors change in 1011.9325650000246ms
+2025-12-02 01:42:21.267 [info] Handled visible editors change in 0.4216889999806881ms
+2025-12-02 01:42:22.226 [info] Uploaded file Q2.html modelVersion=3 in 853.3976629999815ms
+2025-12-02 01:42:22.226 [info] Handled visible editors change in 932.8355560000055ms
+2025-12-02 01:43:55.973 [info] Handled visible editors change in 0.290694999974221ms
+2025-12-02 01:43:56.730 [info] Uploaded file Q6.html modelVersion=3 in 611.9939529999974ms
+2025-12-02 01:43:56.731 [info] Handled visible editors change in 712.6339449999505ms
+2025-12-02 01:44:11.417 [info] Synced file Q6.html modelVersion=6 in 379.0192660000175ms
+2025-12-02 01:44:20.009 [info] Synced file Q6.html modelVersion=9 in 452.34650499996496ms
+2025-12-02 01:44:32.194 [info] Handled visible editors change in 0.21684299991466105ms
+2025-12-02 01:44:32.663 [info] Uploaded file welcome.html modelVersion=3 in 373.53846599999815ms
+2025-12-02 01:44:32.664 [info] Handled visible editors change in 444.38332899997476ms
+2025-12-02 01:44:41.431 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 01:44:41.892 [info] Fetched fsConfig in 459.9670750000514ms
+2025-12-02 01:44:41.892 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-02 01:44:41.892 [info] File sync enabled status: true
+2025-12-02 01:44:41.892 [info] Starting sync of visible tabs
+2025-12-02 01:44:41.892 [info] Synced all visible tabs in 0.22118500003125519ms
+2025-12-02 01:44:50.128 [info] Handled visible editors change in 0.7971510000061244ms
+2025-12-02 01:44:50.146 [info] Handled visible editors change in 0.7000830000033602ms
+2025-12-02 01:47:07.009 [info] Handled visible editors change in 0.19219500001054257ms
+2025-12-02 01:47:07.516 [info] Uploaded file Q7.html modelVersion=1 in 376.4985380000435ms
+2025-12-02 01:47:07.517 [info] Handled visible editors change in 454.6895030000014ms
+2025-12-02 01:47:46.989 [info] Handled visible editors change in 0.41198899992741644ms
+2025-12-02 01:47:47.009 [info] Handled visible editors change in 0.4182520000031218ms
+2025-12-02 01:47:51.567 [info] Synced file Q7.html modelVersion=2 in 306.23059799999464ms
+2025-12-02 01:47:58.568 [info] Handled visible editors change in 0.34184300003107637ms
+2025-12-02 01:47:59.022 [info] Uploaded file Q1.html modelVersion=1 in 330.65216800000053ms
+2025-12-02 01:47:59.023 [info] Handled visible editors change in 392.66083599999547ms
+2025-12-02 01:47:59.983 [info] Synced file Q7.html modelVersion=4 in 301.1138829999836ms
+2025-12-02 01:48:01.383 [info] Handled visible editors change in 0.23999899998307228ms
+2025-12-02 01:48:01.721 [info] Uploaded file Q2.html modelVersion=1 in 275.2017140000826ms
+2025-12-02 01:48:01.721 [info] Handled visible editors change in 311.0814979999559ms
+2025-12-02 01:48:03.060 [info] Handled visible editors change in 0.31667900003958493ms
+2025-12-02 01:48:03.469 [info] Uploaded file Q3.html modelVersion=1 in 341.1310700000031ms
+2025-12-02 01:48:03.469 [info] Handled visible editors change in 380.87922299990896ms
+2025-12-02 01:48:16.055 [info] Handled visible editors change in 0.28990900004282594ms
+2025-12-02 01:48:16.068 [info] Handled visible editors change in 0.3614000000525266ms
+2025-12-02 01:48:23.533 [info] Handled visible editors change in 0.21102699998300523ms
+2025-12-02 01:48:24.548 [info] Handled visible editors change in 0.27069400006439537ms
+2025-12-02 01:48:26.468 [info] Handled visible editors change in 0.2817449999274686ms
+2025-12-02 01:48:27.853 [info] Handled visible editors change in 0.18228200008161366ms
+2025-12-02 01:48:43.138 [info] Handled visible editors change in 0.34537999995518476ms
+2025-12-02 01:48:43.441 [info] Uploaded file welcome.html modelVersion=1 in 248.20772100007161ms
+2025-12-02 01:48:43.441 [info] Handled visible editors change in 280.2451829999918ms
+2025-12-02 01:48:44.771 [info] Handled visible editors change in 0.1736989999189973ms
+2025-12-02 01:48:44.792 [info] Handled visible editors change in 0.8062439999775961ms
+2025-12-02 01:48:47.537 [info] Handled visible editors change in 0.202555000083521ms
+2025-12-02 01:48:47.831 [info] Uploaded file Q6.html modelVersion=9 in 246.7805749999825ms
+2025-12-02 01:48:47.832 [info] Handled visible editors change in 283.2315059999237ms
+2025-12-02 01:49:38.640 [info] Handled visible editors change in 0.20355400000698864ms
+2025-12-02 01:49:38.656 [info] Handled visible editors change in 0.372817000024952ms
+2025-12-02 01:49:42.310 [info] Handled visible editors change in 0.18148500006645918ms
+2025-12-02 01:49:42.608 [info] Uploaded file Q2.html modelVersion=1 in 249.26958900003228ms
+2025-12-02 01:49:42.608 [info] Handled visible editors change in 275.0252539999783ms
+2025-12-02 01:49:48.585 [info] Handled visible editors change in 0.4323980000335723ms
+2025-12-02 01:49:51.270 [info] Handled visible editors change in 0.15787200001068413ms
+2025-12-02 01:50:26.804 [info] Synced file Q2.html modelVersion=2 in 234.52486500004306ms
+2025-12-02 01:51:14.742 [info] Synced file Q2.html modelVersion=3 in 288.1355860000476ms
+2025-12-02 01:51:16.239 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 01:51:16.487 [info] Fetched fsConfig in 248.42145699996036ms
+2025-12-02 01:51:16.488 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-02 01:51:16.488 [info] File sync enabled status: true
+2025-12-02 01:51:16.488 [info] Starting sync of visible tabs
+2025-12-02 01:51:16.488 [info] Synced all visible tabs in 0.06929100002162158ms
+2025-12-02 01:52:41.822 [info] Handled visible editors change in 0.23285200004465878ms
+2025-12-02 01:52:42.204 [info] Uploaded file Q1.html modelVersion=2 in 269.6317529999651ms
+2025-12-02 01:52:42.204 [info] Handled visible editors change in 363.1219669999555ms
+2025-12-02 01:52:56.891 [info] Synced file Q6.html modelVersion=10 in 374.23546100000385ms
+2025-12-02 01:53:02.993 [info] Uploaded file Q7.html modelVersion=5 in 255.18299600004684ms
+2025-12-02 01:53:02.996 [info] Uploaded file Q7.html modelVersion=5 in 258.6065359999193ms
+2025-12-02 01:53:03.051 [info] Uploaded file Q7.html modelVersion=5 in 262.9561850000173ms
+2025-12-02 01:53:03.052 [info] Uploaded file Q7.html modelVersion=5 in 263.19171399995685ms
+2025-12-02 01:53:12.911 [info] Synced file Q1.html modelVersion=3 in 228.098568999907ms
+2025-12-02 01:53:16.773 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 01:53:17.020 [info] Fetched fsConfig in 246.73417999991216ms
+2025-12-02 01:53:17.020 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-02 01:53:17.021 [info] File sync enabled status: true
+2025-12-02 01:53:17.021 [info] Starting sync of visible tabs
+2025-12-02 01:53:17.021 [info] Synced all visible tabs in 0.09982599993236363ms
+2025-12-02 01:53:23.082 [info] Handled visible editors change in 0.23385900002904236ms
+2025-12-02 01:53:23.099 [info] Handled visible editors change in 0.36621599993668497ms
+2025-12-02 01:53:24.714 [info] Handled visible editors change in 0.28909899992868304ms
+2025-12-02 01:53:24.730 [info] Handled visible editors change in 0.402362999971956ms
+2025-12-02 01:53:29.865 [info] Handled visible editors change in 0.2099739999976009ms
+2025-12-02 01:53:29.880 [info] Handled visible editors change in 0.44704900006763637ms
+2025-12-02 01:53:34.410 [info] Handled visible editors change in 0.43215499981306493ms
+2025-12-02 01:53:34.427 [info] Handled visible editors change in 0.36281100008636713ms
+2025-12-02 01:53:35.555 [info] Handled visible editors change in 0.21118000010028481ms
+2025-12-02 01:53:35.571 [info] Handled visible editors change in 0.3876239999663085ms
+2025-12-02 01:55:38.598 [info] Handled visible editors change in 0.22516100015491247ms
+2025-12-02 01:55:38.614 [info] Handled visible editors change in 0.4371140000876039ms
+2025-12-02 01:56:14.511 [info] Handled visible editors change in 0.26000299979932606ms
+2025-12-02 01:56:14.523 [info] Handled visible editors change in 0.48072899994440377ms
+2025-12-02 01:57:44.882 [info] Handled visible editors change in 0.19600500003434718ms
+2025-12-02 01:57:45.215 [info] Uploaded file Q5.html modelVersion=1 in 262.91805300000124ms
+2025-12-02 01:57:45.215 [info] Handled visible editors change in 304.21815200010315ms
+2025-12-02 01:58:41.948 [info] Handled visible editors change in 0.09392799995839596ms
+2025-12-02 01:58:42.312 [info] Uploaded file Q4.html modelVersion=1 in 262.2419909997843ms
+2025-12-02 01:58:42.312 [info] Handled visible editors change in 314.0199849999044ms
+2025-12-02 01:58:48.863 [info] Handled visible editors change in 0.3946220001671463ms
+2025-12-02 01:58:49.207 [info] Uploaded file Q6.html modelVersion=10 in 257.89526099991053ms
+2025-12-02 01:58:49.207 [info] Handled visible editors change in 323.80203599995ms
+2025-12-02 01:59:23.789 [info] Handled visible editors change in 0.3152830000035465ms
+2025-12-02 01:59:23.807 [info] Handled visible editors change in 0.43082799995318055ms
+2025-12-02 01:59:25.897 [info] Handled visible editors change in 0.12477899994701147ms
+2025-12-02 01:59:26.775 [info] Handled visible editors change in 0.15495400014333427ms
+2025-12-02 01:59:28.905 [info] Handled visible editors change in 0.13651200011372566ms
+2025-12-02 01:59:30.398 [info] Handled visible editors change in 0.11526600015349686ms
+2025-12-02 01:59:39.253 [info] Handled visible editors change in 0.32416100008413196ms
+2025-12-02 01:59:39.556 [info] Uploaded file Q1.html modelVersion=3 in 241.45113399997354ms
+2025-12-02 01:59:39.556 [info] Handled visible editors change in 281.1522540000733ms
+2025-12-02 02:00:04.563 [info] Synced file Q1.html modelVersion=4 in 230.16348699992523ms
+2025-12-02 02:00:05.776 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-02 02:00:05.961 [info] Synced file Q1.html modelVersion=5 in 234.2027179999277ms
+2025-12-02 02:00:06.223 [info] Fetched fsConfig in 446.13272500014864ms
+2025-12-02 02:00:06.223 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-02 02:00:06.223 [info] File sync enabled status: true
+2025-12-02 02:00:06.223 [info] Starting sync of visible tabs
+2025-12-02 02:00:06.223 [info] Synced all visible tabs in 0.19061199994757771ms
+2025-12-02 02:01:07.120 [info] Handled visible editors change in 0.22597399982623756ms
+2025-12-02 02:01:07.137 [info] Handled visible editors change in 0.654882000060752ms
+2025-12-02 02:01:08.882 [info] Handled visible editors change in 0.45472799986600876ms
+2025-12-02 02:01:09.446 [info] Uploaded file Q2.html modelVersion=3 in 482.08235400007106ms
+2025-12-02 02:01:09.446 [info] Handled visible editors change in 547.2131850000005ms
+2025-12-02 02:01:10.475 [info] Handled visible editors change in 0.21224500006064773ms
+2025-12-02 02:01:10.788 [info] Uploaded file Q7.html modelVersion=5 in 235.58042400004342ms
+2025-12-02 02:01:10.788 [info] Handled visible editors change in 301.00643500010483ms
+2025-12-02 02:01:12.098 [info] Handled visible editors change in 0.7510319999419153ms
+2025-12-02 02:01:12.113 [info] Handled visible editors change in 0.4469879998359829ms
+2025-12-02 02:01:14.291 [info] Handled visible editors change in 0.19177699997089803ms
+2025-12-02 02:01:14.307 [info] Handled visible editors change in 0.47920900001190603ms
+2025-12-02 02:01:20.158 [info] Handled visible editors change in 0.3304100001696497ms
+2025-12-02 02:01:20.180 [info] Handled visible editors change in 0.3888489999808371ms
+2025-12-02 02:01:21.736 [info] Handled visible editors change in 0.22375599993392825ms
+2025-12-02 02:01:21.749 [info] Handled visible editors change in 0.5959329998586327ms
+2025-12-02 02:01:22.956 [info] Handled visible editors change in 0.20846199989318848ms
+2025-12-02 02:01:23.270 [info] Uploaded file Q3.html modelVersion=1 in 259.83130800002255ms
+2025-12-02 02:01:23.270 [info] Handled visible editors change in 288.1578130000271ms
+2025-12-02 02:01:24.182 [info] Handled visible editors change in 0.18134000012651086ms
+2025-12-02 02:01:24.201 [info] Handled visible editors change in 0.3792549998033792ms
+2025-12-02 02:01:25.933 [info] Handled visible editors change in 0.18150099995546043ms
+2025-12-02 02:01:26.235 [info] Uploaded file Q5.html modelVersion=1 in 242.0113489998039ms
+2025-12-02 02:01:26.235 [info] Handled visible editors change in 285.31432099989615ms
+2025-12-02 02:01:27.656 [info] Handled visible editors change in 0.4007080001756549ms
+2025-12-02 02:01:27.970 [info] Uploaded file Q6.html modelVersion=10 in 264.90320099983364ms
+2025-12-02 02:01:27.970 [info] Handled visible editors change in 303.4458070001565ms
+2025-12-02 02:01:29.647 [info] Handled visible editors change in 0.47380700008943677ms
+2025-12-02 02:01:29.963 [info] Uploaded file Q7.html modelVersion=5 in 261.34872000012547ms
+2025-12-02 02:01:29.963 [info] Handled visible editors change in 301.7380270001013ms
+2025-12-02 02:01:31.567 [info] Handled visible editors change in 0.23228299990296364ms
+2025-12-02 02:01:31.865 [info] Uploaded file welcome.html modelVersion=1 in 252.70808000001125ms
+2025-12-02 02:01:31.865 [info] Handled visible editors change in 276.96115799993277ms
+2025-12-02 02:02:02.012 [info] Handled visible editors change in 0.22262400016188622ms
+2025-12-02 02:02:02.026 [info] Handled visible editors change in 0.391190999886021ms
+2025-12-02 02:02:03.182 [info] Handled visible editors change in 0.19516299990937114ms
+2025-12-02 02:02:03.199 [info] Handled visible editors change in 0.4076719998847693ms
+2025-12-02 02:02:04.504 [info] Handled visible editors change in 0.4389639999717474ms
+2025-12-02 02:02:04.527 [info] Handled visible editors change in 0.5052510001696646ms
+2025-12-02 02:02:05.804 [info] Handled visible editors change in 0.18688900000415742ms
+2025-12-02 02:02:05.824 [info] Handled visible editors change in 0.4027869999408722ms
+2025-12-02 02:02:07.267 [info] Handled visible editors change in 0.3716390000190586ms
+2025-12-02 02:02:07.570 [info] Uploaded file Q3.html modelVersion=1 in 255.24249699991196ms
+2025-12-02 02:02:07.570 [info] Handled visible editors change in 284.4993820001837ms
+2025-12-02 02:02:08.419 [info] Handled visible editors change in 0.21060999995097518ms
+2025-12-02 02:02:08.712 [info] Uploaded file Q2.html modelVersion=3 in 239.48366300016642ms
+2025-12-02 02:02:08.712 [info] Handled visible editors change in 282.3992089999374ms
+2025-12-02 02:02:09.906 [info] Handled visible editors change in 0.17120300000533462ms
+2025-12-02 02:02:10.219 [info] Uploaded file Q1.html modelVersion=5 in 247.13806200004183ms
+2025-12-02 02:02:10.219 [info] Handled visible editors change in 293.85874199983664ms
+2025-12-02 02:02:12.376 [info] Handled visible editors change in 0.28761300002224743ms
+2025-12-02 02:02:12.694 [info] Uploaded file welcome.html modelVersion=1 in 243.11226899991743ms
+2025-12-02 02:02:12.694 [info] Handled visible editors change in 267.3816939999815ms

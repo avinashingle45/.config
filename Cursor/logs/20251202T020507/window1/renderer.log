@@ -1,0 +1,47 @@
+2025-12-02 02:05:10.517 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 02:05:10.522 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 02:05:10.522 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 02:05:10.523 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 02:05:10.523 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 02:05:10.523 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 02:05:10.523 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 02:05:10.523 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 02:05:10.523 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 02:05:10.523 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 02:05:11.032 [info] Started local extension host with pid 65856.
+2025-12-02 02:05:11.809 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2025-12-02 02:05:11.809 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2025-12-02 02:05:12.020 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/fish
+2025-12-02 02:05:12.021 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/fish
+2025-12-02 02:05:12.454 [info] [ShellExec] Created session 4280bbf8-2330-4481-ac06-57b809ffdf00 on LocalProcess host
+2025-12-02 02:05:12.950 [error] [Extension Host] (node:65856) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-02 02:05:13.559 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2025-12-02 02:05:13.560 [info] [Debug] Registered command palette action: debug.logComposer
+2025-12-02 02:05:13.560 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2025-12-02 02:05:13.560 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2025-12-02 02:05:13.582 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2025-12-02 02:05:13.624 [info] [Cursor Proclist Polling] Config applied to Main process
+2025-12-02 02:05:13.625 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2025-12-02 02:05:13.996 [info] [perf] Render performance baseline is 15ms
+2025-12-02 02:05:45.566 [warning] ToolCallEventService: Tracked tool call start - tool_9bc95254-1270-4b44-930e-8d78dc78d9a (write)
+2025-12-02 02:06:03.626 [warning] ToolCallEventService: Tracked tool call end - tool_9bc95254-1270-4b44-930e-8d78dc78d9a
+2025-12-02 02:06:06.865 [warning] ToolCallEventService: Tracked tool call start - tool_146aaf4e-c2f9-4a9a-8e76-7337931684f (read_lints)
+2025-12-02 02:07:39.306 [error] Model is disposed!: Error: Model is disposed!
+    at oF._assertNotDisposed (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:281:437)
+    at oF.getVersionId (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:3218)
+    at OTo._formatDiffHistoryImpl (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9028:15804)
+    at async OTo.formatDiffHistory (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9028:15185)
+    at async OTo.fireCppSuggestionDebouncedDiffHistory (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9023:2610)
+    at async OTo.fireOnCacheMiss (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:34192)
+    at async OTo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9021:1172) Model is disposed!
+2025-12-02 02:07:49.538 [warning] ToolCallEventService: Tracked tool call start - tool_02af9de0-7f01-4de0-b536-5fe1264a561 (write)
+2025-12-02 02:07:56.893 [warning] ToolCallEventService: Tracked tool call end - tool_02af9de0-7f01-4de0-b536-5fe1264a561
+2025-12-02 02:07:57.191 [warning] ToolCallEventService: Tracked tool call start - tool_ebadb172-413a-4d52-beb8-05788346e6f (write)
+2025-12-02 02:08:08.026 [warning] ToolCallEventService: Tracked tool call end - tool_ebadb172-413a-4d52-beb8-05788346e6f
+2025-12-02 02:08:08.334 [warning] ToolCallEventService: Tracked tool call start - tool_3cf62fb0-944c-4a9f-8a0a-621a3edff9c (write)
+2025-12-02 02:08:09.424 [warning] ToolCallEventService: Tracked tool call end - tool_3cf62fb0-944c-4a9f-8a0a-621a3edff9c
+2025-12-02 02:08:12.696 [warning] ToolCallEventService: Tracked tool call start - tool_84e933f6-1d30-4d3a-bd13-240167cead8 (read_lints)
+2025-12-02 02:10:13.637 [info] [Cursor Proclist] Samples written: 28 local processes, 0 remote processes
+2025-12-02 02:15:13.636 [info] [Cursor Proclist] Samples written: 23 local processes, 0 remote processes
+2025-12-02 02:15:38.552 [info] [Cursor Proclist Polling] Stopped polling

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Selection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .checkbox-group {
+            margin-bottom: 15px;
+        }
+        .checkbox-option {
+            margin: 15px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #fafafa;
+        }
+        .checkbox-option label {
+            margin-left: 8px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        input[type="checkbox"] {
+            cursor: pointer;
+            width: 18px;
+            height: 18px;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-top: 20px;
+        }
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Book Selection</h1>
+        <div class="checkbox-group">
+            <div class="checkbox-option">
+                <input type="checkbox" id="book1" name="books" value="C">
+                <label for="book1">C - ₹200</label>
+            </div>
+            <div class="checkbox-option">
+                <input type="checkbox" id="book2" name="books" value="C#">
+                <label for="book2">C# - ₹500</label>
+            </div>
+            <div class="checkbox-option">
+                <input type="checkbox" id="book3" name="books" value="React">
+                <label for="book3">React - ₹550</label>
+            </div>
+            <div class="checkbox-option">
+                <input type="checkbox" id="book4" name="books" value="JavaScript">
+                <label for="book4">JavaScript - ₹450</label>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

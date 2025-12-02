@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Validator</title>
+    <style>
+        input[type="password"] {
+            display: block;
+            margin-bottom: 10px;
+        }
+        .invalid {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Password Validator</h1>
+        <input type="password" id="password" placeholder="Enter password" onchange="validatePasswords()">
+        <input type="password" id="rePassword" placeholder="Re-enter password" onchange="validatePasswords()">
+        <div id="result"></div>
+    </div>
+
+    <script>
+        function validatePasswords() {
+            const password = document.getElementById('password').value;
+            const rePassword = document.getElementById('rePassword').value;
+            const resultDiv = document.getElementById('result');
+            
+            if (password === '' || rePassword === '') {
+                resultDiv.textContent = '';
+                resultDiv.className = '';
+                return;
+            }
+            
+            if (password === rePassword) {
+                resultDiv.textContent = 'Valid';
+                resultDiv.className = 'valid';
+            } else {
+                resultDiv.textContent = 'Invalid';
+                resultDiv.className = 'invalid';
+            }
+        }
+    </script>
+</body>
+</html>
+

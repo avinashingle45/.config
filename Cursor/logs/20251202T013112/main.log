@@ -1,0 +1,28 @@
+2025-12-02 01:31:12.631 [info] [CursorProclistService] Native module loaded successfully
+2025-12-02 01:31:12.708 [info] [storage] Running database optimization (VACUUM) - last run was 20423 days ago
+2025-12-02 01:31:12.818 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/2.1.42/d8c59a546f50a9646648be3c4042c049a24037ab84d2f9835198b27405c6b7f6/stable
+2025-12-02 01:31:12.819 [info] update#setState idle
+2025-12-02 01:31:12.937 [info] [storage] Database optimization (VACUUM) completed successfully
+2025-12-02 01:31:19.883 [warning] [BrowserViewMainService] Cannot execute JavaScript: browser view not created for window 1
+2025-12-02 01:31:21.371 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2025-12-02 01:31:42.821 [info] update#setState checking for updates
+2025-12-02 01:31:45.356 [info] update#setState idle
+2025-12-02 01:34:39.663 [warning] [BrowserViewMainService] Cannot flush storage data: browser view not created for window 1
+2025-12-02 01:34:39.680 [warning] [BrowserViewMainService] Cannot set visibility: browser view not created for window 1
+2025-12-02 01:34:39.704 [info] Extension host with pid 51315 exited with code: 0, signal: unknown.
+2025-12-02 01:34:43.586 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2025-12-02 01:34:43.598 [warning] [BrowserViewMainService] Cannot execute JavaScript: browser view not created for window 1
+2025-12-02 01:35:33.733 [warning] [BrowserViewMainService] Cannot flush storage data: browser view not created for window 1
+2025-12-02 01:35:33.755 [warning] [BrowserViewMainService] Cannot set visibility: browser view not created for window 1
+2025-12-02 01:35:33.755 [info] Extension host with pid 58638 exited with code: 0, signal: unknown.
+2025-12-02 01:35:37.585 [warning] [BrowserViewMainService] Cannot execute JavaScript: browser view not created for window 1
+2025-12-02 01:35:37.668 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2025-12-02 01:40:37.684 [info] [CursorProclistService] Sample 0 created: 20 processes, 31 subsamples
+2025-12-02 01:45:37.683 [info] [CursorProclistService] Sample 1 created: 17 processes, 31 subsamples
+2025-12-02 01:50:37.683 [info] [CursorProclistService] Sample 2 created: 26 processes, 31 subsamples
+2025-12-02 01:55:37.680 [info] [CursorProclistService] Sample 3 created: 23 processes, 31 subsamples
+2025-12-02 02:00:37.686 [info] [CursorProclistService] Sample 4 created: 27 processes, 31 subsamples
+2025-12-02 02:02:51.369 [warning] [BrowserViewMainService] Cannot flush storage data: browser view not created for window 1
+2025-12-02 02:02:51.395 [warning] [BrowserViewMainService] Cannot set visibility: browser view not created for window 1
+2025-12-02 02:02:51.407 [info] Extension host with pid 59372 exited with code: 0, signal: unknown.
+2025-12-02 02:02:51.511 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 59358]: crashed with code 15 and reason 'killed'

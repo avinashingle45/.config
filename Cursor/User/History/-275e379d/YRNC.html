@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Preference Selector</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        select, input[type="text"] {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-bottom: 20px;
+        }
+        select:focus, input[type="text"]:focus {
+            outline: none;
+            border-color: #4CAF50;
+        }
+        input[type="text"]:disabled {
+            background-color: #f0f0f0;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Food Preference Selector</h1>
+        <select id="foodPreference" onchange="displaySelection()">
+            <option value="">Select an option</option>
+            <option value="Jain">Jain</option>
+            <option value="Veg">Veg</option>
+            <option value="Non-Veg">Non-Veg</option>
+        </select>
+        <input type="text" id="selectedValue" placeholder="Selected value will appear here" disabled>
+    </div>
+
+    <script>
+        function displaySelection() {
+            const dropdown = document.getElementById('foodPreference');
+            const textBox = document.getElementById('selectedValue');
+            textBox.value = dropdown.value;
+        }
+    </script>
+</body>
+</html>
+

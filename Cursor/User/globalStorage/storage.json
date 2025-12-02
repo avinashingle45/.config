@@ -1,0 +1,76 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.macMachineId": "fe0553a249ed2f3fdb63a2f5594c697e93e16337fe784cb72d1fc4fbe1572195",
+    "telemetry.machineId": "d8c59a546f50a9646648be3c4042c049a24037ab84d2f9835198b27405c6b7f6",
+    "telemetry.devDeviceId": "f3d76699-a19b-4d95-b226-83df5756b2fb",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/avi/Projects/validation"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/avi/Projects/avinashingle45": "__default__profile__",
+            "file:///home/avi/Projects/validation": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#181818",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(228, 228, 228, 0.92)",
+            "background": "#181818",
+            "editorBackground": "#181818",
+            "titleBarBackground": "#141414",
+            "titleBarBorder": "rgba(228, 228, 228, 0.07)",
+            "activityBarBackground": "#141414",
+            "sideBarBackground": "#141414",
+            "sideBarBorder": "rgba(228, 228, 228, 0.07)",
+            "statusBarBackground": "#141414",
+            "statusBarBorder": "rgba(228, 228, 228, 0.07)",
+            "statusBarNoFolderBackground": "#141414"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/avi/Projects/validation",
+            "backupPath": "/home/avi/.config/Cursor/Backups/a12ef5dc672f36f65f58a8142b7fb4ac",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                453,
+                [
+                    "a0327b755c48d9e1f22a37dc1310572b"
+                ]
+            ]
+        }
+    }
+}

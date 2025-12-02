@@ -1,0 +1,601 @@
+2025-12-02 01:31:16.169 [warning] Missing property "alwaysKeepComposerInBound" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.169 [warning] Missing property "location2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.169 [warning] Missing property "hasMigratedChatLocation" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.170 [warning] Missing property "hasMigratedComposerGlobalConfigsToModeSpecificConfigs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.170 [warning] Missing property "hasMigratedToAgentIsCmdI" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.170 [warning] Missing property "hasMigratedToBgIsCmdE2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.171 [warning] Missing property "hasMigratedToDefaultAutoRun" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.171 [warning] Missing property "defaultCapabilities" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.171 [warning] Missing property "autoApplyFilesOutsideContext" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.171 [warning] Missing property "defaultMode2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.171 [warning] Missing property "useCliAgentBackendDev" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.172 [warning] Missing property "useYoloMode" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.172 [warning] Missing property "yoloPrompt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.172 [warning] Missing property "yoloCommandAllowlist" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.172 [warning] Missing property "yoloCommandDenylist" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.172 [warning] Missing property "yoloMcpToolsDisabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.172 [warning] Missing property "doNotShowYoloModeWarningAgain" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.172 [warning] Missing property "doNotShowFullYoloModeWarningAgain" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.172 [warning] Missing property "selectedFakeStreamerId" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.172 [warning] Missing property "yoloDeleteFileDisabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "yoloDotFilesDisabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "yoloOutsideWorkspaceDisabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "yoloEnableRunEverything" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "isWebSearchToolEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "isWebSearchToolEnabled2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "isWebSearchToolEnabled3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "autoAcceptWebSearchTool" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "autoApprovedModeTransitions" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "autoRejectedModeTransitions" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "backgroundComposerEnv" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "useLegacyTerminalTool" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.173 [warning] Missing property "modes4" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "codeBlockDisplayPreference" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "thinkingLevel" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "composerMigrationVersion" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "mcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "mcpDisabledTools" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "availableDefaultModels2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "featureModelConfigs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "backgroundComposerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "dialogDontAskAgainPreferences" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "cursorIgnore" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.174 [warning] Missing property "teamAdminSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "shouldShowViewZoneWhenPreviewBoxIsClipped6" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "cppModelsState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "aiSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "authenticationSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "websiteUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "backendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "authClientId" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "authDomain" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "repoBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "telemBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "cmdkBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.175 [warning] Missing property "geoCppBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "cppConfigBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "bcProxyUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "agentBackendUrlPrivacy" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "agentBackendUrlNonPrivacy" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "credentialsDisplayName" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "cmdLineHookState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "shouldOnlyImportOnAccept" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "cppAutoImportDecorationStyle" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "newUserData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "azureState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "personalDocs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.176 [warning] Missing property "cppInCmdF" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.177 [warning] Missing property "cppTriggerInComments" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.177 [warning] Missing property "cppShowWhitespaceOnlyChanges" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.177 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.177 [warning] Missing property "indexRepository" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.177 [warning] Missing property "haveNotImportedFromVSC" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.177 [warning] Missing property "shouldAutoParseCmdKLinks" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.177 [warning] Missing property "autoCreateNewChatAfterTimeout" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.177 [warning] Missing property "isFileSyncClientEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.177 [warning] Missing property "membershipType" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.177 [warning] Missing property "fastApplyModelType" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "explicitlyEnableSemanticSearch" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "backgroundComposerEnv" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "preferredEmbeddingModel" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "oneTimeSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "eligibleForSnippetLearning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "goneThroughCodeSnippetOnboarding" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "goneThroughCodeSnippetChangeManagement" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "isRcpServerEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "hasResetModelOnce" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "rpcFileLoggerEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.178 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:31:16.179 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:31:16.179 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:31:16.179 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:31:16.179 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:31:16.179 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:31:16.179 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:31:16.179 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:31:16.179 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:31:16.179 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:31:16.558 [info] Started local extension host with pid 51315.
+2025-12-02 01:31:16.665 [info] Started initializing default profile extensions in extensions installation folder. file:///home/avi/.cursor/extensions
+2025-12-02 01:31:16.871 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/avi/.cursor/extensions
+2025-12-02 01:31:17.523 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/fish
+2025-12-02 01:31:17.525 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/fish
+2025-12-02 01:31:17.658 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2025-12-02 01:31:17.658 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2025-12-02 01:31:18.765 [error] [Extension Host] (node:51315) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-02 01:31:18.985 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2025-12-02 01:31:18.986 [info] [Debug] Registered command palette action: debug.logComposer
+2025-12-02 01:31:18.986 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2025-12-02 01:31:18.986 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2025-12-02 01:31:19.024 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2025-12-02 01:31:19.065 [info] [Cursor Proclist Polling] Local collection disabled by config
+2025-12-02 01:31:19.823 [info] Starting polling for manual login link
+2025-12-02 01:31:20.203 [info] [perf] Render performance baseline is 16ms
+2025-12-02 01:31:20.324 [info] Manual login polling iteration
+2025-12-02 01:31:20.834 [info] Manual login polling iteration
+2025-12-02 01:31:20.932 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async hoo.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6996:3725)
+    at async vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9051:90595 [unauthenticated] Error
+2025-12-02 01:31:20.951 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getEmail (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async DPs.getEmailAndSignUpType (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8904:836) [unauthenticated] Error
+2025-12-02 01:31:21.075 [error] Error fetching user privacy mode: [unauthenticated] Error
+2025-12-02 01:31:21.181 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async hoo.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6996:7712) [unauthenticated] Error
+2025-12-02 01:31:21.271 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.availableModels (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async OTo.keepCppModelStateUpdated (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:16111)
+    at async OTo.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9029:1259) [unauthenticated] Error
+2025-12-02 01:31:21.324 [info] Manual login polling iteration
+2025-12-02 01:31:21.339 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getUserPrivacyMode (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async DPs.fetchUserPrivacyMode (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:11797)
+    at async DPs.refreshPrivacyMode (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:11454) [unauthenticated] Error
+2025-12-02 01:31:21.371 [info] [Cursor Proclist] Local collection enabled by dynamic config change
+2025-12-02 01:31:21.387 [info] [ShellExec] Created session f6b13817-15d2-48b1-8b37-b90cce78944b on LocalProcess host
+2025-12-02 01:31:21.388 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2025-12-02 01:31:21.527 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async hoo.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6996:3725)
+    at async Object.fn (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6020:18520) [unauthenticated] Error
+2025-12-02 01:31:21.824 [info] Manual login polling iteration
+2025-12-02 01:31:22.324 [info] Manual login polling iteration
+2025-12-02 01:31:22.824 [info] Manual login polling iteration
+2025-12-02 01:31:23.324 [info] Manual login polling iteration
+2025-12-02 01:31:23.825 [info] Manual login polling iteration
+2025-12-02 01:31:24.324 [info] Manual login polling iteration
+2025-12-02 01:31:24.824 [info] Manual login polling iteration
+2025-12-02 01:31:25.324 [info] Manual login polling iteration
+2025-12-02 01:31:25.825 [info] Manual login polling iteration
+2025-12-02 01:31:26.324 [info] Manual login polling iteration
+2025-12-02 01:31:26.825 [info] Manual login polling iteration
+2025-12-02 01:31:27.324 [info] Manual login polling iteration
+2025-12-02 01:31:27.825 [info] Manual login polling iteration
+2025-12-02 01:31:28.324 [info] Manual login polling iteration
+2025-12-02 01:31:28.825 [info] Manual login polling iteration
+2025-12-02 01:31:29.324 [info] Manual login polling iteration
+2025-12-02 01:31:29.826 [info] Manual login polling iteration
+2025-12-02 01:31:30.325 [info] Manual login polling iteration
+2025-12-02 01:31:30.825 [info] Manual login polling iteration
+2025-12-02 01:31:31.324 [info] Manual login polling iteration
+2025-12-02 01:31:31.824 [info] Manual login polling iteration
+2025-12-02 01:31:32.325 [info] Manual login polling iteration
+2025-12-02 01:31:32.824 [info] Manual login polling iteration
+2025-12-02 01:31:33.324 [info] Manual login polling iteration
+2025-12-02 01:31:33.825 [info] Manual login polling iteration
+2025-12-02 01:31:34.325 [info] Manual login polling iteration
+2025-12-02 01:31:34.824 [info] Manual login polling iteration
+2025-12-02 01:31:35.325 [info] Manual login polling iteration
+2025-12-02 01:31:35.824 [info] Manual login polling iteration
+2025-12-02 01:31:36.324 [info] Manual login polling iteration
+2025-12-02 01:31:36.824 [info] Manual login polling iteration
+2025-12-02 01:31:37.324 [info] Manual login polling iteration
+2025-12-02 01:31:37.824 [info] Manual login polling iteration
+2025-12-02 01:31:38.324 [info] Manual login polling iteration
+2025-12-02 01:31:38.824 [info] Manual login polling iteration
+2025-12-02 01:31:39.324 [info] Manual login polling iteration
+2025-12-02 01:31:39.825 [info] Manual login polling iteration
+2025-12-02 01:31:40.324 [info] Manual login polling iteration
+2025-12-02 01:31:40.825 [info] Manual login polling iteration
+2025-12-02 01:31:41.324 [info] Manual login polling iteration
+2025-12-02 01:31:41.824 [info] Manual login polling iteration
+2025-12-02 01:31:42.324 [info] Manual login polling iteration
+2025-12-02 01:31:42.824 [info] Manual login polling iteration
+2025-12-02 01:31:43.325 [info] Manual login polling iteration
+2025-12-02 01:31:43.824 [info] Manual login polling iteration
+2025-12-02 01:31:44.324 [info] Manual login polling iteration
+2025-12-02 01:31:44.824 [info] Manual login polling iteration
+2025-12-02 01:31:45.324 [info] Manual login polling iteration
+2025-12-02 01:31:45.824 [info] Manual login polling iteration
+2025-12-02 01:31:46.324 [info] Manual login polling iteration
+2025-12-02 01:31:46.825 [info] Manual login polling iteration
+2025-12-02 01:31:47.325 [info] Manual login polling iteration
+2025-12-02 01:31:47.825 [info] Manual login polling iteration
+2025-12-02 01:31:48.325 [info] Manual login polling iteration
+2025-12-02 01:31:48.824 [info] Manual login polling iteration
+2025-12-02 01:31:49.324 [info] Manual login polling iteration
+2025-12-02 01:31:49.825 [info] Manual login polling iteration
+2025-12-02 01:31:50.325 [info] Manual login polling iteration
+2025-12-02 01:31:50.825 [info] Manual login polling iteration
+2025-12-02 01:31:51.325 [info] Manual login polling iteration
+2025-12-02 01:31:51.825 [info] Manual login polling iteration
+2025-12-02 01:31:52.325 [info] Manual login polling iteration
+2025-12-02 01:31:52.825 [info] Manual login polling iteration
+2025-12-02 01:31:53.324 [info] Manual login polling iteration
+2025-12-02 01:31:53.824 [info] Manual login polling iteration
+2025-12-02 01:31:54.325 [info] Manual login polling iteration
+2025-12-02 01:31:54.825 [info] Manual login polling iteration
+2025-12-02 01:31:55.324 [info] Manual login polling iteration
+2025-12-02 01:31:55.824 [info] Manual login polling iteration
+2025-12-02 01:31:56.325 [info] Manual login polling iteration
+2025-12-02 01:31:56.824 [info] Manual login polling iteration
+2025-12-02 01:31:57.325 [info] Manual login polling iteration
+2025-12-02 01:31:57.346 [info] Starting polling for manual login link
+2025-12-02 01:31:57.847 [info] Manual login polling iteration
+2025-12-02 01:31:58.347 [info] Manual login polling iteration
+2025-12-02 01:31:58.847 [info] Manual login polling iteration
+2025-12-02 01:31:59.347 [info] Manual login polling iteration
+2025-12-02 01:31:59.847 [info] Manual login polling iteration
+2025-12-02 01:32:00.347 [info] Manual login polling iteration
+2025-12-02 01:32:00.847 [info] Manual login polling iteration
+2025-12-02 01:32:01.347 [info] Manual login polling iteration
+2025-12-02 01:32:01.847 [info] Manual login polling iteration
+2025-12-02 01:32:02.347 [info] Manual login polling iteration
+2025-12-02 01:32:02.847 [info] Manual login polling iteration
+2025-12-02 01:32:03.347 [info] Manual login polling iteration
+2025-12-02 01:32:03.847 [info] Manual login polling iteration
+2025-12-02 01:32:04.347 [info] Manual login polling iteration
+2025-12-02 01:32:04.847 [info] Manual login polling iteration
+2025-12-02 01:32:05.347 [info] Manual login polling iteration
+2025-12-02 01:32:05.847 [info] Manual login polling iteration
+2025-12-02 01:32:06.347 [info] Manual login polling iteration
+2025-12-02 01:32:06.847 [info] Manual login polling iteration
+2025-12-02 01:32:07.347 [info] Manual login polling iteration
+2025-12-02 01:32:07.847 [info] Manual login polling iteration
+2025-12-02 01:32:08.347 [info] Manual login polling iteration
+2025-12-02 01:32:08.846 [info] Manual login polling iteration
+2025-12-02 01:32:09.346 [info] Manual login polling iteration
+2025-12-02 01:32:09.847 [info] Manual login polling iteration
+2025-12-02 01:32:10.347 [info] Manual login polling iteration
+2025-12-02 01:32:10.847 [info] Manual login polling iteration
+2025-12-02 01:32:11.347 [info] Manual login polling iteration
+2025-12-02 01:32:11.847 [info] Manual login polling iteration
+2025-12-02 01:32:12.347 [info] Manual login polling iteration
+2025-12-02 01:32:12.847 [info] Manual login polling iteration
+2025-12-02 01:32:13.347 [info] Manual login polling iteration
+2025-12-02 01:32:13.847 [info] Manual login polling iteration
+2025-12-02 01:32:14.346 [info] Manual login polling iteration
+2025-12-02 01:32:14.847 [info] Manual login polling iteration
+2025-12-02 01:32:15.347 [info] Manual login polling iteration
+2025-12-02 01:32:15.846 [info] Manual login polling iteration
+2025-12-02 01:32:16.347 [info] Manual login polling iteration
+2025-12-02 01:32:16.847 [info] Manual login polling iteration
+2025-12-02 01:32:17.347 [info] Manual login polling iteration
+2025-12-02 01:32:17.846 [info] Manual login polling iteration
+2025-12-02 01:32:18.346 [info] Manual login polling iteration
+2025-12-02 01:32:18.847 [info] Manual login polling iteration
+2025-12-02 01:32:19.346 [info] Manual login polling iteration
+2025-12-02 01:32:19.846 [info] Manual login polling iteration
+2025-12-02 01:32:20.346 [info] Manual login polling iteration
+2025-12-02 01:32:20.846 [info] Manual login polling iteration
+2025-12-02 01:32:21.346 [info] Manual login polling iteration
+2025-12-02 01:32:21.846 [info] Manual login polling iteration
+2025-12-02 01:32:22.346 [info] Manual login polling iteration
+2025-12-02 01:32:22.846 [info] Manual login polling iteration
+2025-12-02 01:32:23.346 [info] Manual login polling iteration
+2025-12-02 01:32:23.846 [info] Manual login polling iteration
+2025-12-02 01:32:24.346 [info] Manual login polling iteration
+2025-12-02 01:32:24.846 [info] Manual login polling iteration
+2025-12-02 01:32:25.346 [info] Manual login polling iteration
+2025-12-02 01:32:25.846 [info] Manual login polling iteration
+2025-12-02 01:32:26.346 [info] Manual login polling iteration
+2025-12-02 01:32:26.846 [info] Manual login polling iteration
+2025-12-02 01:32:27.346 [info] Manual login polling iteration
+2025-12-02 01:32:27.846 [info] Manual login polling iteration
+2025-12-02 01:32:28.346 [info] Manual login polling iteration
+2025-12-02 01:32:28.846 [info] Manual login polling iteration
+2025-12-02 01:32:29.346 [info] Manual login polling iteration
+2025-12-02 01:32:29.846 [info] Manual login polling iteration
+2025-12-02 01:32:30.346 [info] Manual login polling iteration
+2025-12-02 01:32:30.846 [info] Manual login polling iteration
+2025-12-02 01:32:31.346 [info] Manual login polling iteration
+2025-12-02 01:32:31.846 [info] Manual login polling iteration
+2025-12-02 01:32:32.347 [info] Manual login polling iteration
+2025-12-02 01:32:32.847 [info] Manual login polling iteration
+2025-12-02 01:32:33.347 [info] Manual login polling iteration
+2025-12-02 01:32:33.847 [info] Manual login polling iteration
+2025-12-02 01:32:34.347 [info] Manual login polling iteration
+2025-12-02 01:32:34.846 [info] Manual login polling iteration
+2025-12-02 01:32:35.347 [info] Manual login polling iteration
+2025-12-02 01:32:35.847 [info] Manual login polling iteration
+2025-12-02 01:32:36.347 [info] Manual login polling iteration
+2025-12-02 01:32:36.847 [info] Manual login polling iteration
+2025-12-02 01:32:37.347 [info] Manual login polling iteration
+2025-12-02 01:32:37.846 [info] Manual login polling iteration
+2025-12-02 01:32:38.346 [info] Manual login polling iteration
+2025-12-02 01:32:38.847 [info] Manual login polling iteration
+2025-12-02 01:32:39.347 [info] Manual login polling iteration
+2025-12-02 01:32:39.847 [info] Manual login polling iteration
+2025-12-02 01:32:40.347 [info] Manual login polling iteration
+2025-12-02 01:32:40.847 [info] Manual login polling iteration
+2025-12-02 01:32:41.346 [info] Manual login polling iteration
+2025-12-02 01:32:41.847 [info] Manual login polling iteration
+2025-12-02 01:32:42.347 [info] Manual login polling iteration
+2025-12-02 01:32:42.847 [info] Manual login polling iteration
+2025-12-02 01:32:43.347 [info] Manual login polling iteration
+2025-12-02 01:32:43.847 [info] Manual login polling iteration
+2025-12-02 01:32:44.347 [info] Manual login polling iteration
+2025-12-02 01:32:44.847 [info] Manual login polling iteration
+2025-12-02 01:32:45.347 [info] Manual login polling iteration
+2025-12-02 01:32:45.847 [info] Manual login polling iteration
+2025-12-02 01:32:46.347 [info] Manual login polling iteration
+2025-12-02 01:32:46.847 [info] Manual login polling iteration
+2025-12-02 01:32:47.346 [info] Manual login polling iteration
+2025-12-02 01:32:47.846 [info] Manual login polling iteration
+2025-12-02 01:32:48.347 [info] Manual login polling iteration
+2025-12-02 01:32:48.847 [info] Manual login polling iteration
+2025-12-02 01:32:49.346 [info] Manual login polling iteration
+2025-12-02 01:32:49.847 [info] Manual login polling iteration
+2025-12-02 01:32:50.347 [info] Manual login polling iteration
+2025-12-02 01:32:50.846 [info] Manual login polling iteration
+2025-12-02 01:32:51.347 [info] Manual login polling iteration
+2025-12-02 01:32:51.847 [info] Manual login polling iteration
+2025-12-02 01:32:52.347 [info] Manual login polling iteration
+2025-12-02 01:32:52.847 [info] Manual login polling iteration
+2025-12-02 01:32:53.347 [info] Manual login polling iteration
+2025-12-02 01:32:53.847 [info] Manual login polling iteration
+2025-12-02 01:32:54.347 [info] Manual login polling iteration
+2025-12-02 01:32:54.847 [info] Manual login polling iteration
+2025-12-02 01:32:55.347 [info] Manual login polling iteration
+2025-12-02 01:32:55.847 [info] Manual login polling iteration
+2025-12-02 01:32:56.347 [info] Manual login polling iteration
+2025-12-02 01:32:56.847 [info] Manual login polling iteration
+2025-12-02 01:32:57.347 [info] Manual login polling iteration
+2025-12-02 01:32:57.847 [info] Manual login polling iteration
+2025-12-02 01:32:58.347 [info] Manual login polling iteration
+2025-12-02 01:32:58.847 [info] Manual login polling iteration
+2025-12-02 01:32:59.347 [info] Manual login polling iteration
+2025-12-02 01:32:59.847 [info] Manual login polling iteration
+2025-12-02 01:33:00.347 [info] Manual login polling iteration
+2025-12-02 01:33:00.847 [info] Manual login polling iteration
+2025-12-02 01:33:01.348 [info] Manual login polling iteration
+2025-12-02 01:33:01.847 [info] Manual login polling iteration
+2025-12-02 01:33:02.347 [info] Manual login polling iteration
+2025-12-02 01:33:02.846 [info] Manual login polling iteration
+2025-12-02 01:33:03.347 [info] Manual login polling iteration
+2025-12-02 01:33:03.847 [info] Manual login polling iteration
+2025-12-02 01:33:04.347 [info] Manual login polling iteration
+2025-12-02 01:33:04.847 [info] Manual login polling iteration
+2025-12-02 01:33:05.347 [info] Manual login polling iteration
+2025-12-02 01:33:05.847 [info] Manual login polling iteration
+2025-12-02 01:33:06.347 [info] Manual login polling iteration
+2025-12-02 01:33:06.847 [info] Manual login polling iteration
+2025-12-02 01:33:07.347 [info] Manual login polling iteration
+2025-12-02 01:33:07.847 [info] Manual login polling iteration
+2025-12-02 01:33:08.347 [info] Manual login polling iteration
+2025-12-02 01:33:08.847 [info] Manual login polling iteration
+2025-12-02 01:33:09.347 [info] Manual login polling iteration
+2025-12-02 01:33:09.847 [info] Manual login polling iteration
+2025-12-02 01:33:10.347 [info] Manual login polling iteration
+2025-12-02 01:33:10.847 [info] Manual login polling iteration
+2025-12-02 01:33:11.347 [info] Manual login polling iteration
+2025-12-02 01:33:11.847 [info] Manual login polling iteration
+2025-12-02 01:33:12.347 [info] Manual login polling iteration
+2025-12-02 01:33:12.847 [info] Manual login polling iteration
+2025-12-02 01:33:13.347 [info] Manual login polling iteration
+2025-12-02 01:33:13.847 [info] Manual login polling iteration
+2025-12-02 01:33:14.347 [info] Manual login polling iteration
+2025-12-02 01:33:14.847 [info] Manual login polling iteration
+2025-12-02 01:33:15.347 [info] Manual login polling iteration
+2025-12-02 01:33:15.847 [info] Manual login polling iteration
+2025-12-02 01:33:16.347 [info] Manual login polling iteration
+2025-12-02 01:33:16.847 [info] Manual login polling iteration
+2025-12-02 01:33:17.347 [info] Manual login polling iteration
+2025-12-02 01:33:17.847 [info] Manual login polling iteration
+2025-12-02 01:33:18.347 [info] Manual login polling iteration
+2025-12-02 01:33:18.847 [info] Manual login polling iteration
+2025-12-02 01:33:19.347 [info] Manual login polling iteration
+2025-12-02 01:33:19.847 [info] Manual login polling iteration
+2025-12-02 01:33:20.347 [info] Manual login polling iteration
+2025-12-02 01:33:20.847 [info] Manual login polling iteration
+2025-12-02 01:33:21.346 [info] Manual login polling iteration
+2025-12-02 01:33:21.847 [info] Manual login polling iteration
+2025-12-02 01:33:22.347 [info] Manual login polling iteration
+2025-12-02 01:33:22.847 [info] Manual login polling iteration
+2025-12-02 01:33:23.347 [info] Manual login polling iteration
+2025-12-02 01:33:23.847 [info] Manual login polling iteration
+2025-12-02 01:33:24.347 [info] Manual login polling iteration
+2025-12-02 01:33:24.847 [info] Manual login polling iteration
+2025-12-02 01:33:25.347 [info] Manual login polling iteration
+2025-12-02 01:33:25.847 [info] Manual login polling iteration
+2025-12-02 01:33:26.347 [info] Manual login polling iteration
+2025-12-02 01:33:26.847 [info] Manual login polling iteration
+2025-12-02 01:33:27.347 [info] Manual login polling iteration
+2025-12-02 01:33:27.847 [info] Manual login polling iteration
+2025-12-02 01:33:28.346 [info] Manual login polling iteration
+2025-12-02 01:33:28.847 [info] Manual login polling iteration
+2025-12-02 01:33:29.346 [info] Manual login polling iteration
+2025-12-02 01:33:29.847 [info] Manual login polling iteration
+2025-12-02 01:33:30.347 [info] Manual login polling iteration
+2025-12-02 01:33:30.847 [info] Manual login polling iteration
+2025-12-02 01:33:31.346 [info] Manual login polling iteration
+2025-12-02 01:33:31.847 [info] Manual login polling iteration
+2025-12-02 01:33:32.347 [info] Manual login polling iteration
+2025-12-02 01:33:32.847 [info] Manual login polling iteration
+2025-12-02 01:33:33.347 [info] Manual login polling iteration
+2025-12-02 01:33:33.847 [info] Manual login polling iteration
+2025-12-02 01:33:34.347 [info] Manual login polling iteration
+2025-12-02 01:33:34.847 [info] Manual login polling iteration
+2025-12-02 01:33:35.347 [info] Manual login polling iteration
+2025-12-02 01:33:35.847 [info] Manual login polling iteration
+2025-12-02 01:33:36.347 [info] Manual login polling iteration
+2025-12-02 01:33:36.847 [info] Manual login polling iteration
+2025-12-02 01:33:37.347 [info] Manual login polling iteration
+2025-12-02 01:33:37.847 [info] Manual login polling iteration
+2025-12-02 01:33:38.347 [info] Manual login polling iteration
+2025-12-02 01:33:38.847 [info] Manual login polling iteration
+2025-12-02 01:33:39.347 [info] Manual login polling iteration
+2025-12-02 01:33:39.847 [info] Manual login polling iteration
+2025-12-02 01:33:40.347 [info] Manual login polling iteration
+2025-12-02 01:33:54.088 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getEmail (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async DPs.getEmailAndSignUpType (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8904:836) [unknown] Network disconnected
+2025-12-02 01:33:54.591 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async hoo.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6996:7712) [unknown] Network disconnected
+2025-12-02 01:33:58.839 [error] Error fetching user privacy mode: [unknown] Network disconnected
+2025-12-02 01:33:58.979 [error] Error fetching user privacy mode: [unknown] Network disconnected
+2025-12-02 01:33:59.431 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async DPs.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:38060)
+    at async DPs.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:24583)
+    at async vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:29166 [unknown] Network disconnected
+2025-12-02 01:33:59.438 [error] Error fetching user privacy mode: [unknown] Network disconnected
+2025-12-02 01:34:02.432 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async hoo.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6996:7712) [unknown] Network disconnected
+2025-12-02 01:34:02.473 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async DPs.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:38060)
+    at async DPs.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:24583)
+    at async vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:29166 [unknown] Network disconnected
+2025-12-02 01:34:03.562 [error] Error fetching user privacy mode: [unknown] Network disconnected
+2025-12-02 01:34:04.045 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async DPs.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:38060)
+    at async DPs.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:24583)
+    at async vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:29166 [unknown] Network disconnected
+2025-12-02 01:34:04.166 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async hoo.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6996:7712) [unknown] Network disconnected
+2025-12-02 01:34:07.703 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async hoo.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6996:7712) [unknown] Network disconnected
+2025-12-02 01:34:07.728 [error] Error fetching user privacy mode: [unknown] Network disconnected
+2025-12-02 01:34:09.307 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6331:410245)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:565:74406)
+    at async hoo.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6996:7712) [unknown] Network disconnected
+2025-12-02 01:34:39.705 [info] [Cursor Proclist Polling] Stopped polling
+2025-12-02 01:34:40.747 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:34:40.747 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:34:40.751 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:34:40.752 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:34:40.752 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:34:40.752 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:34:40.752 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:34:40.752 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:34:40.752 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:34:40.752 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:34:40.752 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:34:41.169 [info] Started local extension host with pid 58638.
+2025-12-02 01:34:41.696 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2025-12-02 01:34:41.696 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2025-12-02 01:34:42.032 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/fish
+2025-12-02 01:34:42.033 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/fish
+2025-12-02 01:34:42.087 [warning] No search provider registered for scheme: file, waiting
+2025-12-02 01:34:42.624 [error] [Extension Host] (node:58638) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-02 01:34:42.634 [info] [ShellExec] Created session 7d2d6fcb-7129-443e-be4b-157137d49bbe on LocalProcess host
+2025-12-02 01:34:43.536 [info] [Debug] Registered command palette action: debug.logComposer
+2025-12-02 01:34:43.536 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2025-12-02 01:34:43.536 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2025-12-02 01:34:43.536 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2025-12-02 01:34:43.549 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2025-12-02 01:34:43.599 [info] [Cursor Proclist Polling] Config applied to Main process
+2025-12-02 01:34:43.599 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2025-12-02 01:34:44.304 [info] [perf] Render performance baseline is 19ms
+2025-12-02 01:34:51.200 [error] [Extension Host] [otel.error] {"stack":"OTLPExporterError: Bad Request\n\tat IncomingMessage.<anonymous> (/usr/share/cursor/resources/app/node_modules/@opentelemetry/otlp-exporter-base/build/src/transport/http-transport-utils.js:52:31)\n\tat IncomingMessage.emit (node:events:531:35)\n\tat endReadableNT (node:internal/streams/readable:1698:12)\n\tat process.processTicksAndRejections (node:internal/process/task_queues:90:21)","message":"Bad Request","code":"400","name":"OTLPExporterError","data":"{\"error\":\"Trace spans collection is not enabled for this user\"}"}
+2025-12-02 01:35:33.779 [info] [Cursor Proclist Polling] Stopped polling
+2025-12-02 01:35:34.853 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-02 01:35:34.857 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:35:34.857 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:35:34.858 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:35:34.858 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:35:34.858 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:35:34.858 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:35:34.858 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:35:34.859 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:35:34.859 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-02 01:35:35.282 [info] Started local extension host with pid 59372.
+2025-12-02 01:35:35.776 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2025-12-02 01:35:35.776 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2025-12-02 01:35:36.144 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/fish
+2025-12-02 01:35:36.145 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/fish
+2025-12-02 01:35:36.204 [warning] No search provider registered for scheme: file, waiting
+2025-12-02 01:35:36.733 [error] [Extension Host] (node:59372) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-02 01:35:36.746 [info] [ShellExec] Created session 8cfcee75-244f-4ae2-8db8-479ace911293 on LocalProcess host
+2025-12-02 01:35:37.641 [info] [Debug] Registered command palette action: debug.logComposer
+2025-12-02 01:35:37.642 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2025-12-02 01:35:37.642 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2025-12-02 01:35:37.642 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2025-12-02 01:35:37.654 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2025-12-02 01:35:37.678 [info] [Cursor Proclist Polling] Config applied to Main process
+2025-12-02 01:35:37.678 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2025-12-02 01:35:38.467 [info] [perf] Render performance baseline is 22ms
+2025-12-02 01:36:06.029 [warning] ToolCallEventService: Tracked tool call start - tool_368f2ba7-7a81-44ea-bf01-b0459b19fa8 (list_dir_v2)
+2025-12-02 01:36:10.399 [warning] ToolCallEventService: Tracked tool call start - tool_147ad1da-46a9-4c8c-8e3c-89768063fc6 (write)
+2025-12-02 01:36:18.855 [warning] ToolCallEventService: Tracked tool call end - tool_147ad1da-46a9-4c8c-8e3c-89768063fc6
+2025-12-02 01:36:25.320 [warning] ToolCallEventService: Tracked tool call start - tool_ff16fda6-8d7d-4a05-b5c9-f781fda11fd (read_lints)
+2025-12-02 01:38:43.027 [error] Failed to fetch: TypeError: Failed to fetch
+    at DPs.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:8903:26963) Failed to fetch
+2025-12-02 01:40:37.691 [info] [Cursor Proclist] Samples written: 20 local processes, 0 remote processes
+2025-12-02 01:41:52.862 [warning] ToolCallEventService: Tracked tool call start - tool_cb9b0640-969b-4353-a7f0-c7a4f30f7e6 (read_file)
+2025-12-02 01:41:58.043 [warning] ToolCallEventService: Tracked tool call start - tool_daa165fe-ab48-438b-ad24-e3c32043560 (write)
+2025-12-02 01:42:16.033 [warning] ToolCallEventService: Tracked tool call end - tool_daa165fe-ab48-438b-ad24-e3c32043560
+2025-12-02 01:42:16.565 [warning] ToolCallEventService: Tracked tool call start - tool_73381923-252d-4d57-91c9-911dd0fb257 (write)
+2025-12-02 01:42:26.701 [warning] ToolCallEventService: Tracked tool call end - tool_73381923-252d-4d57-91c9-911dd0fb257
+2025-12-02 01:42:27.194 [warning] ToolCallEventService: Tracked tool call start - tool_076aefde-cad5-47ab-b6c0-27664201578 (write)
+2025-12-02 01:42:38.291 [warning] ToolCallEventService: Tracked tool call end - tool_076aefde-cad5-47ab-b6c0-27664201578
+2025-12-02 01:42:38.968 [warning] ToolCallEventService: Tracked tool call start - tool_a2a3a27b-4b77-4934-b66b-5a0a39a78d0 (write)
+2025-12-02 01:42:48.882 [warning] ToolCallEventService: Tracked tool call end - tool_a2a3a27b-4b77-4934-b66b-5a0a39a78d0
+2025-12-02 01:42:49.432 [warning] ToolCallEventService: Tracked tool call start - tool_aae81acc-f46c-48ed-963a-b0c7a393e49 (write)
+2025-12-02 01:43:14.215 [warning] ToolCallEventService: Tracked tool call end - tool_aae81acc-f46c-48ed-963a-b0c7a393e49
+2025-12-02 01:43:17.801 [warning] ToolCallEventService: Tracked tool call start - tool_066d8d82-d73a-4365-871f-d874d543115 (read_lints)
+2025-12-02 01:44:00.960 [warning] ToolCallEventService: Tracked tool call start - tool_082e8c7e-54fb-4f1a-9447-1140761a8f7 (read_file)
+2025-12-02 01:44:05.368 [warning] ToolCallEventService: Tracked tool call start - tool_8a1740c5-88f3-406d-933d-4f588ee04fb (search_replace)
+2025-12-02 01:44:10.771 [warning] ToolCallEventService: Tracked tool call end - tool_8a1740c5-88f3-406d-933d-4f588ee04fb
+2025-12-02 01:44:11.223 [warning] ToolCallEventService: Tracked tool call start - tool_cf839855-0adb-4a75-87f6-c0d3a8a321b (search_replace)
+2025-12-02 01:44:19.263 [warning] ToolCallEventService: Tracked tool call end - tool_cf839855-0adb-4a75-87f6-c0d3a8a321b
+2025-12-02 01:44:19.795 [warning] ToolCallEventService: Tracked tool call start - tool_a28790ba-1270-4998-8f6c-498f2bd7e42 (write)
+2025-12-02 01:44:24.879 [warning] ToolCallEventService: Tracked tool call end - tool_a28790ba-1270-4998-8f6c-498f2bd7e42
+2025-12-02 01:44:28.303 [warning] ToolCallEventService: Tracked tool call start - tool_c02180b0-6ea4-45c6-bf9b-ab852e3bb97 (read_lints)
+2025-12-02 01:45:37.687 [info] [Cursor Proclist] Samples written: 17 local processes, 0 remote processes
+2025-12-02 01:46:36.592 [warning] ToolCallEventService: Tracked tool call start - tool_c5d64b29-c0c8-4394-9e26-0df4c8763f1 (write)
+2025-12-02 01:46:43.040 [warning] ToolCallEventService: Tracked tool call end - tool_c5d64b29-c0c8-4394-9e26-0df4c8763f1
+2025-12-02 01:46:47.432 [warning] ToolCallEventService: Tracked tool call start - tool_72681f98-5da8-4720-ac8c-baf8991e362 (read_lints)
+2025-12-02 01:47:45.673 [warning] ToolCallEventService: Tracked tool call start - tool_b3e1b7f4-ba55-4bf1-bdb6-d385421ecf9 (read_file)
+2025-12-02 01:47:48.731 [warning] ToolCallEventService: Tracked tool call start - tool_a15298a8-2d5b-4cdf-a6a6-6b869e71787 (search_replace)
+2025-12-02 01:47:50.990 [warning] ToolCallEventService: Tracked tool call end - tool_a15298a8-2d5b-4cdf-a6a6-6b869e71787
+2025-12-02 01:47:51.320 [warning] ToolCallEventService: Tracked tool call start - tool_c828df32-c285-4c15-94a8-73911667afa (search_replace)
+2025-12-02 01:47:59.419 [warning] ToolCallEventService: Tracked tool call end - tool_c828df32-c285-4c15-94a8-73911667afa
+2025-12-02 01:48:03.750 [warning] ToolCallEventService: Tracked tool call start - tool_b488bd16-9aee-44e5-8534-975a1e8a1b9 (read_lints)
+2025-12-02 01:50:37.690 [info] [Cursor Proclist] Samples written: 26 local processes, 0 remote processes
+2025-12-02 01:51:00.576 [warning] ToolCallEventService: Tracked tool call start - tool_74749f6f-3367-4b99-be13-9fadf31d740 (read_file)
+2025-12-02 01:51:07.044 [warning] ToolCallEventService: Tracked tool call start - tool_08d9d6ba-13ec-4316-a2fb-f56be75bc5b (search_replace)
+2025-12-02 01:51:14.155 [warning] ToolCallEventService: Tracked tool call end - tool_08d9d6ba-13ec-4316-a2fb-f56be75bc5b
+2025-12-02 01:51:17.472 [warning] ToolCallEventService: Tracked tool call start - tool_7e99c5b6-fbe7-4b72-8842-b3acddd9204 (read_lints)
+2025-12-02 01:52:19.143 [warning] ToolCallEventService: Tracked tool call start - tool_989fe0d0-5408-4079-a0c6-e720b814a2e (read_file)
+2025-12-02 01:52:19.553 [warning] ToolCallEventService: Tracked tool call start - tool_d53ab275-0a19-4803-81a9-952e3bbd4bb (read_file)
+2025-12-02 01:52:19.960 [warning] ToolCallEventService: Tracked tool call start - tool_265a46b7-b64d-402d-9643-5bd8ae38e33 (read_file)
+2025-12-02 01:52:20.458 [warning] ToolCallEventService: Tracked tool call start - tool_42fea606-83d5-4cf9-8c71-ea980c29d7b (read_file)
+2025-12-02 01:52:20.791 [warning] ToolCallEventService: Tracked tool call start - tool_9ee5292d-a6bc-4665-bfbe-bc6184abe61 (read_file)
+2025-12-02 01:52:21.240 [warning] ToolCallEventService: Tracked tool call start - tool_f57234fb-d2f2-4eae-becb-f729a8339f2 (read_file)
+2025-12-02 01:52:21.603 [warning] ToolCallEventService: Tracked tool call start - tool_875ac3cc-d7b9-417e-8e71-a70ea21bf10 (read_file)
+2025-12-02 01:52:22.024 [warning] ToolCallEventService: Tracked tool call start - tool_1e652c6c-1fca-4cf6-9548-c70bccb422b (read_file)
+2025-12-02 01:52:26.691 [warning] ToolCallEventService: Tracked tool call start - tool_cc06242d-98ca-4f7a-8953-74eca9ca57f (search_replace)
+2025-12-02 01:52:32.084 [warning] ToolCallEventService: Tracked tool call end - tool_cc06242d-98ca-4f7a-8953-74eca9ca57f
+2025-12-02 01:52:32.400 [warning] ToolCallEventService: Tracked tool call start - tool_eadc48bf-886d-42b0-98ed-7bd95be289f (search_replace)
+2025-12-02 01:52:37.930 [warning] ToolCallEventService: Tracked tool call end - tool_eadc48bf-886d-42b0-98ed-7bd95be289f
+2025-12-02 01:52:38.263 [warning] ToolCallEventService: Tracked tool call start - tool_4af9df6c-d22c-4cd7-a693-e72b94215cb (search_replace)
+2025-12-02 01:52:44.154 [warning] ToolCallEventService: Tracked tool call end - tool_4af9df6c-d22c-4cd7-a693-e72b94215cb
+2025-12-02 01:52:44.484 [warning] ToolCallEventService: Tracked tool call start - tool_73f00069-d1e0-41df-b4a8-a378427ea0e (search_replace)
+2025-12-02 01:52:49.151 [warning] ToolCallEventService: Tracked tool call end - tool_73f00069-d1e0-41df-b4a8-a378427ea0e
+2025-12-02 01:52:49.505 [warning] ToolCallEventService: Tracked tool call start - tool_973f4c5f-c4a9-4785-9138-c0a10ecd632 (search_replace)
+2025-12-02 01:52:56.233 [warning] ToolCallEventService: Tracked tool call end - tool_973f4c5f-c4a9-4785-9138-c0a10ecd632
+2025-12-02 01:52:56.676 [warning] ToolCallEventService: Tracked tool call start - tool_531ecf6b-3efb-4dde-a900-8349cea3f2c (search_replace)
+2025-12-02 01:53:02.755 [warning] ToolCallEventService: Tracked tool call end - tool_531ecf6b-3efb-4dde-a900-8349cea3f2c
+2025-12-02 01:53:03.126 [warning] ToolCallEventService: Tracked tool call start - tool_08e811dc-6b76-4586-8aab-1c985099456 (search_replace)
+2025-12-02 01:53:06.334 [warning] ToolCallEventService: Tracked tool call end - tool_08e811dc-6b76-4586-8aab-1c985099456
+2025-12-02 01:53:12.082 [warning] ToolCallEventService: Tracked tool call start - tool_83aaa839-666b-4ce6-b342-c5179020d09 (read_lints)
+2025-12-02 01:55:37.686 [info] [Cursor Proclist] Samples written: 23 local processes, 0 remote processes
+2025-12-02 02:00:37.694 [info] [Cursor Proclist] Samples written: 27 local processes, 0 remote processes
+2025-12-02 02:02:51.466 [info] [Cursor Proclist Polling] Stopped polling

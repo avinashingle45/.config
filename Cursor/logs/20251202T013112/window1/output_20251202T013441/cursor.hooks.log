@@ -1,0 +1,10 @@
+[2025-12-01T20:04:41.563Z] Initializing Cursor Hooks Service...
+[2025-12-01T20:04:41.563Z] User config path: /home/avi/.cursor/hooks.json
+[2025-12-01T20:04:41.563Z] Project config path: /home/avi/Projects/avinashingle45/.cursor/hooks.json
+[2025-12-01T20:04:41.563Z] Enterprise config path: file:///etc/cursor/hooks.json
+[2025-12-01T20:04:41.564Z] Reloading hooks configuration...
+[2025-12-01T20:04:41.567Z] No enterprise hooks configuration found
+[2025-12-01T20:04:41.568Z] No user hooks configuration found
+[2025-12-01T20:04:41.573Z] No project hooks configuration found
+[2025-12-01T20:04:41.573Z] Refreshing team hooks...
+[2025-12-01T20:04:41.573Z] Cursor Hooks Service initialized successfully

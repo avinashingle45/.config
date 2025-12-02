@@ -1,0 +1,12 @@
+2025-12-02 01:31:17.262 [info] Getting extensions control
+2025-12-02 01:37:21.695 [info] Getting extensions control
+2025-12-02 01:37:43.159 [info] Getting Manifest... ms-vscode.live-server
+2025-12-02 01:37:52.931 [info] Installing extension: ms-vscode.live-server {"isMachineScoped":false,"installPreReleaseVersion":false,"donotVerifySignature":true,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/avi/.cursor/extensions/extensions.json","path":"/home/avi/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"2.1.42","date":"2025-12-01T02:18:26.377Z","vscodeVersion":"1.105.1"}}
+2025-12-02 01:37:52.956 [info] Started downloading extension: ms-vscode.live-server 0.4.16 file:///home/avi/.config/Cursor/CachedExtensionVSIXs/ms-vscode.live-server-0.4.16-universal
+2025-12-02 01:38:26.656 [info] Extracted extension to file:///home/avi/.cursor/extensions/ms-vscode.live-server-0.4.16-universal: ms-vscode.live-server
+2025-12-02 01:38:26.659 [info] Renamed to /home/avi/.cursor/extensions/ms-vscode.live-server-0.4.16-universal
+2025-12-02 01:38:26.667 [info] Extension installed successfully: ms-vscode.live-server vscode-userdata:/home/avi/.cursor/extensions/extensions.json
+2025-12-02 01:45:35.330 [info] Getting extensions control
+2025-12-02 01:50:36.529 [info] Getting extensions control
+2025-12-02 01:55:36.785 [info] Getting extensions control
+2025-12-02 02:00:37.588 [info] Getting extensions control

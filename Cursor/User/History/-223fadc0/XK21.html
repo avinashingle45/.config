@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login and Registration</title>
+    <style>
+        .form-section {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+        input, select, textarea, button {
+            display: block;
+            margin-bottom: 10px;
+        }
+        .error-message {
+            color: red;
+        }
+        .radio-group, .checkbox-group {
+            margin: 10px 0;
+        }
+        .radio-option, .checkbox-option {
+            display: inline-block;
+            margin-right: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-section">
+        <h2>Login</h2>
+        <a href="#" id="loginLink">Login -> hyperlink</a>
+        <form id="loginForm" onsubmit="validateLogin(event)">
+            <label for="userId">UserId:</label>
+            <input type="text" id="userId" name="userId" required>
+            
+            <label for="loginPassword">Password:</label>
+            <input type="password" id="loginPassword" name="loginPassword" required>
+            
+            <div id="loginError" class="error-message"></div>
+            
+            <button type="submit">Submit</button>
+            <button type="reset" onclick="resetLoginForm()">Reset</button>
+        </form>
+        <a href="#" id="signUpLink">SignUp -> hyperlink</a>
+        
+        <div style="margin-top: 20px; padding: 10px; border: 1px solid #ccc; background-color: #f9f9f9;">
+            <strong>Login Validation Rule:</strong><br>
+            If user is "vita" and password is "vidya" then only submit the form else give error.
+        </div>
+    </div>
+
+    <div class="form-section">
+        <h2>Registration:</h2>
+        <form id="registrationForm" onsubmit="validateRegistration(event)">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="regPassword">Password:</label>
+            <input type="password" id="regPassword" name="regPassword" required>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="dob">DOB:</label>
+            <input type="date" id="dob" name="dob" required>
+            
+            <label for="mobile">Mobile:</label>
+            <input type="number" id="mobile" name="mobile" required>
+            
+            <label for="address">Address:</label>
+            <textarea id="address" name="address" rows="4" required></textarea>
+            
+            <label for="education">Education:</label>
+            <select id="education" name="education" required>
+                <option value="">Select Education</option>
+                <option value="High School">High School</option>
+                <option value="Bachelor's">Bachelor's</option>
+                <option value="Master's">Master's</option>
+                <option value="PhD">PhD</option>
+            </select>
+            
+            <label>Gender:</label>
+            <div class="radio-group">
+                <div class="radio-option">
+                    <input type="radio" id="male" name="gender" value="male" required>
+                    <label for="male">Male</label>
+                </div>
+                <div class="radio-option">
+                    <input type="radio" id="female" name="gender" value="female">
+                    <label for="female">Female</label>
+                </div>
+                <div class="radio-option">
+                    <input type="radio" id="other" name="gender" value="other">
+                    <label for="other">Other</label>
+                </div>
+            </div>
+            
+            <label>Hobbies:</label>
+            <div class="checkbox-group">
+                <div class="checkbox-option">
+                    <input type="checkbox" id="hobby1" name="hobbies" value="Reading">
+                    <label for="hobby1">Reading</label>
+                </div>
+                <div class="checkbox-option">
+                    <input type="checkbox" id="hobby2" name="hobbies" value="Sports">
+                    <label for="hobby2">Sports</label>
+                </div>
+                <div class="checkbox-option">
+                    <input type="checkbox" id="hobby3" name="hobbies" value="Music">
+                    <label for="hobby3">Music</label>
+                </div>
+                <div class="checkbox-option">
+                    <input type="checkbox" id="hobby4" name="hobbies" value="Travel">
+                    <label for="hobby4">Travel</label>
+                </div>
+            </div>
+            
+            <button type="submit">Submit</button>
+            <button type="reset">Reset</button>
+        </form>
+    </div>
+
+    <script>
+        function validateLogin(event) {
+            event.preventDefault();
+            const userId = document.getElementById('userId').value;
+            const password = document.getElementById('loginPassword').value;
+            const errorDiv = document.getElementById('loginError');
+            
+            if (userId === 'vita' && password === 'vidya') {
+                errorDiv.textContent = '';
+                alert('Login successful!');
+                // Form can be submitted here
+            } else {
+                errorDiv.textContent = 'Error: Invalid username or password. User must be "vita" and password must be "vidya".';
+            }
+        }
+        
+        function resetLoginForm() {
+            document.getElementById('loginForm').reset();
+            document.getElementById('loginError').textContent = '';
+        }
+        
+        function validateRegistration(event) {
+            event.preventDefault();
+            const hobbies = document.querySelectorAll('input[name="hobbies"]:checked');
+            
+            if (hobbies.length === 0) {
+                alert('Please select at least one hobby.');
+                return;
+            }
+            
+            alert('Registration successful!');
+            // Form can be submitted here
+        }
+    </script>
+</body>
+</html>
+

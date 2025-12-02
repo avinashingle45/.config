@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        input[type="text"], input[type="password"], textarea {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-bottom: 20px;
+        }
+        input[type="text"]:focus, input[type="password"]:focus, textarea:focus {
+            outline: none;
+            border-color: #4CAF50;
+        }
+        input[type="text"].error, input[type="password"].error, textarea.error {
+            border-color: #f44336;
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .error-message {
+            color: #f44336;
+            font-size: 14px;
+            margin-top: -15px;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Form Validation</h1>
+        <form id="myForm" onsubmit="validateForm(event)">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name (2-15 characters)">
+            <div id="nameError" class="error-message"></div>
+            
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" placeholder="Enter your password (8-15 characters)">
+            <div id="passwordError" class="error-message"></div>
+            
+            <label for="address">Address:</label>
+            <textarea id="address" name="address" rows="4" placeholder="Enter your address (minimum 10 characters)"></textarea>
+            <div id="addressError" class="error-message"></div>
+            
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        function validateForm(event) {
+            event.preventDefault();
+            
+            const name = document.getElementById('name').value.trim();
+            const password = document.getElementById('password').value;
+            const address = document.getElementById('address').value.trim();
+            
+            const nameError = document.getElementById('nameError');
+            const passwordError = document.getElementById('passwordError');
+            const addressError = document.getElementById('addressError');
+            
+            const nameInput = document.getElementById('name');
+            const passwordInput = document.getElementById('password');
+            const addressInput = document.getElementById('address');
+            
+            let isValid = true;
+            
+            // Clear previous errors
+            nameError.textContent = '';
+            passwordError.textContent = '';
+            addressError.textContent = '';
+            nameInput.classList.remove('error');
+            passwordInput.classList.remove('error');
+            addressInput.classList.remove('error');
+            
+            // Validate name
+            if (name === '') {
+                nameError.textContent = 'Name field cannot be blank';
+                nameInput.classList.add('error');
+                isValid = false;
+            } else if (name.length < 2 || name.length > 15) {
+                nameError.textContent = 'Name must be between 2 and 15 characters';
+                nameInput.classList.add('error');
+                isValid = false;
+            }
+            
+            // Validate password
+            if (password === '') {
+                passwordError.textContent = 'Password field cannot be blank';
+                passwordInput.classList.add('error');
+                isValid = false;
+            } else if (password.length < 8 || password.length > 15) {
+                passwordError.textContent = 'Password must be between 8 and 15 characters';
+                passwordInput.classList.add('error');
+                isValid = false;
+            }
+            
+            // Validate address
+            if (address === '') {
+                addressError.textContent = 'Address field cannot be blank';
+                addressInput.classList.add('error');
+                isValid = false;
+            } else if (address.length < 10) {
+                addressError.textContent = 'Address must have minimum 10 characters';
+                addressInput.classList.add('error');
+                isValid = false;
+            }
+            
+            if (isValid) {
+                // Submit form to welcome.html
+                window.location.href = 'welcome.html';
+            }
+        }
+    </script>
+</body>
+</html>
+
