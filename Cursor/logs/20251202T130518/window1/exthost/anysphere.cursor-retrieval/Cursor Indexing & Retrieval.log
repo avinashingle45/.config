@@ -1,0 +1,37 @@
+2025-12-02 13:05:24.065 [error] Error getting repo info: Failed to execute git
+2025-12-02 13:05:24.065 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34772)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33895)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1443222)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1419151)
+2025-12-02 13:05:24.065 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-12-02 13:05:24.065 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-12-02 13:05:24.065 [info] Using existing keys for an index
+2025-12-02 13:05:24.065 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-12-02 13:05:24.065 [info] Using existing keys for an index
+2025-12-02 13:05:24.065 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-12-02 13:05:24.065 [error] Error getting repo info: Failed to execute git
+2025-12-02 13:05:24.065 [warning] Failed to get symbolic ref: Failed to execute git
+2025-12-02 13:05:24.065 [info] Starting RepoIndexWatcher for repo: 4e6642c0-38cd-417c-84c2-5af744112100, owner: github|user_01KBDR6JZM2SDEK3MF9C6852Z0
+2025-12-02 13:05:24.065 [info] Setting global status from status tracker: synced
+2025-12-02 13:05:24.065 [info] Doing a startup handshake.
+2025-12-02 13:05:24.070 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/avi/Projects/validation/.git/HEAD')
+2025-12-02 13:05:24.135 [warning] Failed to get branches from remote: Failed to execute git
+2025-12-02 13:05:24.139 [warning] Failed to get default branch from git config: Failed to execute git
+2025-12-02 13:05:24.159 [info] Finished computing merkle tree in 5.206452999999783 ms.
+2025-12-02 13:05:24.159 [info] Doing the initial handshake with hash: e0f92665edf0e6daa9d8ee2ba23ae22f0967b04865d612f363414489576a5c3b
+2025-12-02 13:05:24.163 [info] Computed simhash vector of length: 256
+2025-12-02 13:05:24.163 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-02 13:05:24.163 [info] Handshake start
+2025-12-02 13:05:28.167 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-12-02 13:05:28.167 [info] Handshake start
+2025-12-02 13:05:28.581 [info] Handshake timing: 415.84106900000006, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"1a145a1b-3ffe-4b0c-b92a-97ef2c351228","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-12-02 13:05:28.582 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"1a145a1b-3ffe-4b0c-b92a-97ef2c351228","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-12-02 13:05:28.582 [info] Starting fast remote sync.
+2025-12-02 13:05:28.582 [info] Total num embeddable files: 11
+2025-12-02 13:05:28.583 [info] Root hash: e0f92665edf0e6daa9d8ee2ba23ae22f0967b04865d612f363414489576a5c3b
+2025-12-02 13:05:28.584 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-12-02 13:05:28.835 [info] Finished indexing repository.
+2025-12-02 13:05:28.835 [info] Indexing job successfully done or aborted.
+2025-12-02 13:07:03.177 [info] multiCodebaseIndexingJob dispose
+2025-12-02 13:07:03.177 [info] Aborting indexing job.

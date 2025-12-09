@@ -1,0 +1,19 @@
+2025-12-06 01:33:10.368 [info] [CursorProclistService] Native module loaded successfully
+2025-12-06 01:33:10.457 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/2.1.48/d8c59a546f50a9646648be3c4042c049a24037ab84d2f9835198b27405c6b7f6/stable
+2025-12-06 01:33:10.457 [info] update#setState idle
+2025-12-06 01:33:14.176 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2025-12-06 01:33:14.247 [warning] [BrowserViewMainService] Cannot execute JavaScript: browser view not created for window 1
+2025-12-06 01:33:40.458 [info] update#setState checking for updates
+2025-12-06 01:33:40.710 [info] update#setState available for download
+2025-12-06 01:38:14.193 [info] [CursorProclistService] Sample 0 created: 18 processes, 31 subsamples
+2025-12-06 01:43:14.192 [info] [CursorProclistService] Sample 1 created: 21 processes, 31 subsamples
+2025-12-06 01:48:14.190 [info] [CursorProclistService] Sample 2 created: 21 processes, 31 subsamples
+2025-12-06 01:53:14.189 [info] [CursorProclistService] Sample 3 created: 21 processes, 31 subsamples
+2025-12-06 01:58:14.188 [info] [CursorProclistService] Sample 4 created: 21 processes, 31 subsamples
+2025-12-06 02:03:14.191 [info] [CursorProclistService] Sample 5 created: 21 processes, 31 subsamples
+2025-12-06 02:08:14.193 [info] [CursorProclistService] Sample 6 created: 21 processes, 31 subsamples
+2025-12-06 02:13:14.192 [info] [CursorProclistService] Sample 7 created: 21 processes, 31 subsamples
+2025-12-06 02:15:02.839 [warning] [BrowserViewMainService] Cannot flush storage data: browser view not created for window 1
+2025-12-06 02:15:02.862 [warning] [BrowserViewMainService] Cannot set visibility: browser view not created for window 1
+2025-12-06 02:15:02.881 [info] Extension host with pid 2612 exited with code: 0, signal: unknown.
+2025-12-06 02:15:02.927 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 2627]: crashed with code 15 and reason 'killed'

@@ -1,0 +1,10 @@
+2025-12-06 02:44:49.206 [info] [CursorProclistService] Native module loaded successfully
+2025-12-06 02:44:49.226 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/2.1.48/d8c59a546f50a9646648be3c4042c049a24037ab84d2f9835198b27405c6b7f6/stable
+2025-12-06 02:44:49.227 [info] update#setState idle
+2025-12-06 02:44:54.779 [warning] [BrowserViewMainService] Cannot execute JavaScript: browser view not created for window 1
+2025-12-06 02:44:54.983 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2025-12-06 02:45:19.228 [info] update#setState checking for updates
+2025-12-06 02:45:19.565 [info] update#setState available for download
+2025-12-06 02:46:06.757 [warning] [BrowserViewMainService] Cannot flush storage data: browser view not created for window 1
+2025-12-06 02:46:06.771 [warning] [BrowserViewMainService] Cannot set visibility: browser view not created for window 1
+2025-12-06 02:46:06.788 [info] Extension host with pid 28629 exited with code: 0, signal: unknown.

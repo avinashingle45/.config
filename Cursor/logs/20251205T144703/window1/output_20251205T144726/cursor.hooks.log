@@ -1,0 +1,102 @@
+[2025-12-05T09:17:26.316Z] Initializing Cursor Hooks Service...
+[2025-12-05T09:17:26.316Z] User config path: /home/avi/.cursor/hooks.json
+[2025-12-05T09:17:26.316Z] Project config path: /home/avi/Documents/terraform_tf/.cursor/hooks.json
+[2025-12-05T09:17:26.316Z] Enterprise config path: file:///etc/cursor/hooks.json
+[2025-12-05T09:17:26.316Z] Reloading hooks configuration...
+[2025-12-05T09:17:26.318Z] No enterprise hooks configuration found
+[2025-12-05T09:17:26.320Z] No user hooks configuration found
+[2025-12-05T09:17:26.320Z] No project hooks configuration found
+[2025-12-05T09:17:26.320Z] Refreshing team hooks...
+[2025-12-05T09:17:26.321Z] Cursor Hooks Service initialized successfully
+[2025-12-05T09:43:59.328Z] Hook step requested: beforeReadFile
+[2025-12-05T09:43:59.328Z] Hook step requested: beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+HOOK STEP REQUESTED (NO HOOKS CONFIGURED): beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+INPUT THAT WOULD HAVE BEEN SENT:
+{
+  "conversation_id": "d4425230-0df9-4d08-8801-5f3ea38769ae",
+  "generation_id": "3e7ae1e1-b6eb-48c5-9e82-640460750875",
+  "model": "default",
+  "content": "provider \"aws\" {\n  region  = \"us-east-1\"\n  profile = \"configs\"\n}",
+  "file_path": "/home/avi/Documents/terraform_tf/provider.tf",
+  "attachments": [],
+  "hook_event_name": "beforeReadFile",
+  "cursor_version": "2.1.48",
+  "workspace_roots": [
+    "/home/avi/Documents/terraform_tf"
+  ],
+  "user_email": "avinashingle542@gmail.com"
+}
+═══════════════════════════════════════════════════════════════════════════════════════
+
+[2025-12-05T09:44:00.859Z] Hook step requested: beforeReadFile
+[2025-12-05T09:44:00.859Z] Hook step requested: beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+HOOK STEP REQUESTED (NO HOOKS CONFIGURED): beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+INPUT THAT WOULD HAVE BEEN SENT:
+{
+  "conversation_id": "d4425230-0df9-4d08-8801-5f3ea38769ae",
+  "generation_id": "3e7ae1e1-b6eb-48c5-9e82-640460750875",
+  "model": "default",
+  "content": "variable \"webserver_ami\" {\n  default = \"ami-0ecb62995f68bb549\"\n\n}\nvariable \"webserver_instance_type\" {\n  default = \"t3.small\"\n\n}\nvariable \"webserver_key_name\" {\n  default = \"adi\"\n}\nvariable \"webserver_vpc_security_group_ids\" {\n  type    = list(string)\n  default = [\"sg-0e23629a6578f85e1\"]\n\n}\nvariable \"webserver_disable_api_termination\" {\n  default = false\n}\n# variable \"webserver_count\" {\n  # default = 2\n\n",
+  "file_path": "/home/avi/Documents/terraform_tf/variable.tf",
+  "attachments": [],
+  "hook_event_name": "beforeReadFile",
+  "cursor_version": "2.1.48",
+  "workspace_roots": [
+    "/home/avi/Documents/terraform_tf"
+  ],
+  "user_email": "avinashingle542@gmail.com"
+}
+═══════════════════════════════════════════════════════════════════════════════════════
+
+[2025-12-05T09:45:35.035Z] Hook step requested: beforeReadFile
+[2025-12-05T09:45:35.035Z] Hook step requested: beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+HOOK STEP REQUESTED (NO HOOKS CONFIGURED): beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+INPUT THAT WOULD HAVE BEEN SENT:
+{
+  "conversation_id": "ea81826e-17f3-4d06-ace3-17bae37dbcb2",
+  "generation_id": "723410f4-22d5-4a1e-a91a-e92198a2d080",
+  "model": "default",
+  "content": "provider \"aws\" {\n  region  = \"us-east-1\"\n  profile = \"configs\"\n}",
+  "file_path": "/home/avi/Documents/terraform_tf/provider.tf",
+  "attachments": [],
+  "hook_event_name": "beforeReadFile",
+  "cursor_version": "2.1.48",
+  "workspace_roots": [
+    "/home/avi/Documents/terraform_tf"
+  ],
+  "user_email": "avinashingle542@gmail.com"
+}
+═══════════════════════════════════════════════════════════════════════════════════════
+
+[2025-12-05T09:45:35.430Z] Hook step requested: beforeReadFile
+[2025-12-05T09:45:35.430Z] Hook step requested: beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+HOOK STEP REQUESTED (NO HOOKS CONFIGURED): beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+INPUT THAT WOULD HAVE BEEN SENT:
+{
+  "conversation_id": "ea81826e-17f3-4d06-ace3-17bae37dbcb2",
+  "generation_id": "723410f4-22d5-4a1e-a91a-e92198a2d080",
+  "model": "default",
+  "content": "variable \"webserver_ami\" {\n  default = \"ami-0ecb62995f68bb549\"\n\n}\nvariable \"webserver_instance_type\" {\n  default = \"t3.small\"\n\n}\nvariable \"webserver_key_name\" {\n  default = \"adi\"\n}\nvariable \"webserver_vpc_security_group_ids\" {\n  type    = list(string)\n  default = [\"sg-0e23629a6578f85e1\"]\n\n}\nvariable \"webserver_disable_api_termination\" {\n  default = false\n}\n# variable \"webserver_count\" {\n  # default = 2\n\n",
+  "file_path": "/home/avi/Documents/terraform_tf/variable.tf",
+  "attachments": [],
+  "hook_event_name": "beforeReadFile",
+  "cursor_version": "2.1.48",
+  "workspace_roots": [
+    "/home/avi/Documents/terraform_tf"
+  ],
+  "user_email": "avinashingle542@gmail.com"
+}
+═══════════════════════════════════════════════════════════════════════════════════════
+
+[2025-12-05T09:47:27.992Z] Refreshing team hooks...
+[2025-12-05T10:22:39.712Z] Refreshing team hooks...
+[2025-12-05T10:52:39.713Z] Refreshing team hooks...
+[2025-12-05T11:22:40.476Z] Refreshing team hooks...

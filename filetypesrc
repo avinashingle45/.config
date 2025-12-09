@@ -1,2 +1,3 @@
 [EmbedSettings]
 embed-application/vnd.ms-publisher=false
+embed-video/x-matroska=false

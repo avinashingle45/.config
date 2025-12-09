@@ -1,0 +1,81 @@
+2025-12-07 13:20:56.714 [error] Error getting repo info: Failed to execute git
+2025-12-07 13:20:56.714 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34772)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33895)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1444916)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1420845)
+2025-12-07 13:20:56.714 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-12-07 13:20:56.714 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-12-07 13:20:56.714 [info] Using existing keys for an index
+2025-12-07 13:20:56.714 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-12-07 13:20:56.714 [warning] Failed to get symbolic ref: Failed to execute git
+2025-12-07 13:20:56.714 [error] Error getting repo info: Failed to execute git
+2025-12-07 13:20:56.714 [info] Using existing keys for an index
+2025-12-07 13:20:56.714 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-12-07 13:20:56.718 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/avi/Documents/terraform_tf/.git/HEAD')
+2025-12-07 13:20:56.721 [info] Starting RepoIndexWatcher for repo: 9a696be1-5c9c-473a-8f8a-5fa0cce49d87, owner: github|user_01KBDR6JZM2SDEK3MF9C6852Z0
+2025-12-07 13:20:56.721 [info] Setting global status from status tracker: synced
+2025-12-07 13:20:56.721 [info] Doing a startup handshake.
+2025-12-07 13:20:57.539 [warning] Failed to get branches from remote: Failed to execute git
+2025-12-07 13:20:57.542 [warning] Failed to get default branch from git config: Failed to execute git
+2025-12-07 13:20:57.576 [info] Finished computing merkle tree in 9.544290000000274 ms.
+2025-12-07 13:20:57.580 [info] Doing the initial handshake with hash: 4e574984694eb927eb310c94db61a7879c4bff6a7c532a075e5757d8ea07d9af
+2025-12-07 13:20:57.583 [info] Computed simhash vector of length: 256
+2025-12-07 13:20:57.583 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-07 13:20:57.583 [info] Handshake start
+2025-12-07 13:21:01.590 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-12-07 13:21:01.590 [info] Handshake start
+2025-12-07 13:21:02.152 [info] Handshake timing: 564.2794059999997, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"9818cc4e-4040-40f2-ad61-00c677fe4728","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-12-07 13:21:02.152 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"9818cc4e-4040-40f2-ad61-00c677fe4728","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-12-07 13:21:02.152 [info] Starting fast remote sync.
+2025-12-07 13:21:02.153 [info] Total num embeddable files: 7
+2025-12-07 13:21:02.155 [info] Root hash: 4e574984694eb927eb310c94db61a7879c4bff6a7c532a075e5757d8ea07d9af
+2025-12-07 13:21:02.156 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-12-07 13:21:02.794 [info] Finished indexing repository.
+2025-12-07 13:21:02.794 [info] Indexing job successfully done or aborted.
+2025-12-07 13:22:00.016 [info] multiCodebaseIndexingJob dispose
+2025-12-07 13:22:00.016 [info] Aborting indexing job.
+2025-12-07 13:22:03.015 [error] Error getting repo info: Failed to execute git
+2025-12-07 13:22:03.015 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34772)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33895)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1444916)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1420845)
+2025-12-07 13:22:03.015 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-12-07 13:22:03.015 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-12-07 13:22:03.020 [info] Making keys for a new index
+2025-12-07 13:22:03.207 [info] Making keys for a new index
+2025-12-07 13:22:03.213 [info] Using the default key from the server for a new index
+2025-12-07 13:22:03.213 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-12-07 13:22:03.231 [warning] Failed to get symbolic ref: Failed to execute git
+2025-12-07 13:22:03.231 [error] Error getting repo info: Failed to execute git
+2025-12-07 13:22:03.247 [info] Using the default key from the server for a new index
+2025-12-07 13:22:03.247 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-12-07 13:22:03.253 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/avi/Documents/Terraform_Project/.git/HEAD')
+2025-12-07 13:22:03.262 [info] Starting RepoIndexWatcher for repo: 346cc3cf-333b-4e93-a948-05683e4935d9, owner: github|user_01KBDR6JZM2SDEK3MF9C6852Z0
+2025-12-07 13:22:03.262 [info] Doing a startup handshake.
+2025-12-07 13:22:03.648 [warning] Failed to get branches from remote: Failed to execute git
+2025-12-07 13:22:03.669 [warning] Failed to get default branch from git config: Failed to execute git
+2025-12-07 13:22:03.728 [info] Finished computing merkle tree in 4.024759000000358 ms.
+2025-12-07 13:22:03.729 [info] Doing the initial handshake with hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-12-07 13:22:03.731 [info] Computed simhash vector of length: 0
+2025-12-07 13:22:03.731 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-07 13:22:03.731 [info] Handshake start
+2025-12-07 13:22:03.732 [warning] Error reading high level folder description. Ignoring. Error: ENOENT: no such file or directory, open '/home/avi/.config/Cursor/User/workspaceStorage/32a26f38b824374a0ba529dca5eb2ff3/anysphere.cursor-retrieval/high_level_folder_description.txt'
+2025-12-07 13:22:07.737 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-12-07 13:22:07.737 [info] Handshake start
+2025-12-07 13:22:08.740 [info] Handshake timing: 1004.4212900000002, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"c22ae883-d81f-41e5-87dc-06ff230d2dd0","status":"STATUS_EMPTY","copyTaskHandle":""}]}
+2025-12-07 13:22:08.740 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"c22ae883-d81f-41e5-87dc-06ff230d2dd0","status":"STATUS_EMPTY","copyTaskHandle":""}]}
+2025-12-07 13:22:08.741 [info] Starting fast remote sync.
+2025-12-07 13:22:08.741 [info] Total num embeddable files: 0
+2025-12-07 13:22:08.743 [info] Root hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-12-07 13:22:08.743 [info] Starting repository upload from scratch.
+2025-12-07 13:22:08.744 [info] Uploading 0 files.
+2025-12-07 13:22:08.746 [info] Total number of files to embed: 0
+2025-12-07 13:22:08.746 [info] Not aborted
+2025-12-07 13:22:08.746 [info] Starting while loop.
+2025-12-07 13:22:09.156 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-12-07 13:22:09.739 [info] Finished indexing repository.
+2025-12-07 13:22:09.739 [info] Indexing job successfully done or aborted.
+2025-12-07 13:24:19.737 [info] multiCodebaseIndexingJob dispose
+2025-12-07 13:24:19.737 [info] Aborting indexing job.

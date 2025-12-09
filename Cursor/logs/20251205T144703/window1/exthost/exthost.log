@@ -1,0 +1,246 @@
+2025-12-05 14:47:06.646 [info] Extension host with pid 129058 started
+2025-12-05 14:47:06.646 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/fish
+2025-12-05 14:47:06.646 [info] Skipping acquiring lock for /home/avi/.config/Cursor/User/workspaceStorage/ff8f862fdf5743148b3fcdb44b64c13f.
+2025-12-05 14:47:06.670 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-05 14:47:06.687 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-12-05 14:47:06.730 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-extension, startup: false, activationEvent: 'onCommand:cursor-browser-extension.status'
+2025-12-05 14:47:06.924 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: anysphere.cursor-agent-exec
+2025-12-05 14:47:07.004 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*', root cause: anysphere.cursor-agent-exec
+2025-12-05 14:47:07.041 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-12-05 14:47:07.145 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: '*', root cause: anysphere.cursor-agent-exec
+2025-12-05 14:47:07.366 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: false, activationEvent: '*'
+2025-12-05 14:47:07.620 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'api', root cause: anysphere.cursor-agent-exec
+2025-12-05 14:47:07.827 [info] Eager extensions activated
+2025-12-05 14:47:07.879 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:08.126 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:08.130 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-connect, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:08.155 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:08.206 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:08.266 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:08.267 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:24.627 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-05 14:47:24.641 [error] Error: Channel has been closed
+	at r (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:3270)
+	at Object.appendLine (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:3409)
+	at m (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:244518)
+	at t.deactivate (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:244377)
+	at /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3158351
+	at t.deactivate (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3158409)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async Promise.all (index 1)
+	at async vjt._deactivateAll (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:12476)
+2025-12-05 14:47:24.642 [info] Extension host with pid 129058 exiting with code 0
+2025-12-05 14:47:26.918 [info] Extension host with pid 129883 started
+2025-12-05 14:47:26.918 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/fish
+2025-12-05 14:47:26.918 [info] Skipping acquiring lock for /home/avi/.config/Cursor/User/workspaceStorage/5e4cd22b7a25213f99d04849b3abc653.
+2025-12-05 14:47:26.925 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-extension, startup: false, activationEvent: 'onCommand:cursor-browser-extension.status'
+2025-12-05 14:47:27.106 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: anysphere.cursor-agent-exec
+2025-12-05 14:47:27.112 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*', root cause: anysphere.cursor-agent-exec
+2025-12-05 14:47:27.148 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-12-05 14:47:27.227 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: '*', root cause: anysphere.cursor-agent-exec
+2025-12-05 14:47:27.396 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: false, activationEvent: '*'
+2025-12-05 14:47:27.623 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'api', root cause: anysphere.cursor-agent-exec
+2025-12-05 14:47:27.808 [info] Eager extensions activated
+2025-12-05 14:47:27.842 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:28.050 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:28.064 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-connect, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:28.086 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:28.134 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:28.194 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:28.195 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-05 14:47:54.654 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-05 14:49:14.245 [info] ExtensionService#_doActivateExtension hashicorp.terraform, startup: false, activationEvent: 'onLanguage:terraform'
+2025-12-05 14:49:14.365 [warning] registerMcpServerDefinitionProvider is not supported in Cursor
+2025-12-05 14:50:33.647 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 14:50:33.647 [error] Error: main.tf (14,18): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 14:50:35.057 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 14:50:35.057 [error] Error: main.tf (14,18): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 14:50:59.944 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 14:50:59.944 [error] Error: main.tf (11,45): position outside of "resource" body
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 14:54:59.085 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 14:54:59.086 [error] Error: main.tf (15,48): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:02:53.391 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:02:53.391 [error] Error: main.tf (75,4): unknown block type "f"
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:07:44.304 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:07:44.304 [error] Error: main.tf (6,66): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:08:18.987 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:08:18.987 [error] Error: main.tf (5,76): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:08:19.304 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:08:19.304 [error] Error: main.tf (5,79): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:08:19.783 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:08:19.783 [error] Error: main.tf (5,79): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:08:27.630 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:08:27.630 [error] Error: main.tf (5,78): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:08:29.358 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:08:29.358 [error] Error: main.tf (5,78): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:09:29.925 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:09:29.925 [error] Error: main.tf (9,12): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:09:30.327 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:09:30.327 [error] Error: main.tf (11,7): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:10:07.096 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:10:07.096 [error] Error: main.tf (79,9): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:10:07.892 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:10:07.892 [error] Error: main.tf (79,7): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:10:11.323 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:10:11.323 [error] Error: main.tf (79,9): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:10:28.668 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:10:28.669 [error] Error: main.tf (79,18): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:15:01.034 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:15:01.035 [error] Error: main.tf (87,1): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:15:31.643 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:15:31.643 [error] Error: main.tf (10,17): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:15:59.550 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:15:59.550 [error] Error: main.tf (14,21): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:17:10.698 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:17:10.698 [error] Error: main.tf (10,15): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:17:11.036 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:17:11.037 [error] Error: main.tf (10,17): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:25:17.035 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:25:17.035 [error] Error: main.tf (75,33): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:31:23.089 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:31:23.089 [error] Error: main.tf (81,29): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:31:24.440 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:31:24.440 [error] Error: main.tf (81,30): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 15:36:42.503 [error] [hashicorp.terraform] provider FAILED
+2025-12-05 15:36:42.503 [error] Error: variable.tf (2,11): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-12-05 16:57:07.941 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-05 16:57:07.983 [error] Error: Channel has been closed
+	at r (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:3270)
+	at Object.appendLine (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:3409)
+	at m (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:244518)
+	at t.deactivate (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:244377)
+	at /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3158351
+	at t.deactivate (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3158409)
+	at async Promise.all (index 1)
+	at async vjt._deactivateAll (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:12476)
+2025-12-05 16:57:07.990 [info] Extension host with pid 129883 exiting with code 0

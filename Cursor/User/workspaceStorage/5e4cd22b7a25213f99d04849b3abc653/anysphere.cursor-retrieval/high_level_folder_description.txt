@@ -1,0 +1,1 @@
+{"timestamp":1764501174626,"paths":["./terraform.tfstate","./provider.tf","./main.tf","./.terraform.lock.hcl","./variable.tf","./terraform.tfstate.backup","./.terraform/providers/registry.terraform.io/hashicorp/aws/6.24.0/linux_amd64/LICENSE.txt"]}

@@ -1,0 +1,49 @@
+2025-12-06 02:44:54.753 [error] Error getting repo info: Failed to execute git
+2025-12-06 02:44:54.753 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34772)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33895)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1444916)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1420845)
+2025-12-06 02:44:54.753 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-12-06 02:44:54.753 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-12-06 02:44:54.753 [info] Using existing keys for an index
+2025-12-06 02:44:54.753 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-12-06 02:44:54.753 [warning] Failed to get symbolic ref: Failed to execute git
+2025-12-06 02:44:54.753 [error] Error getting repo info: Failed to execute git
+2025-12-06 02:44:54.753 [info] Using existing keys for an index
+2025-12-06 02:44:54.753 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-12-06 02:44:54.753 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/avi/Documents/terraform_tf/.git/HEAD')
+2025-12-06 02:44:54.753 [info] Starting RepoIndexWatcher for repo: 9a696be1-5c9c-473a-8f8a-5fa0cce49d87, owner: github|user_01KBDR6JZM2SDEK3MF9C6852Z0
+2025-12-06 02:44:54.753 [info] Setting global status from status tracker: synced
+2025-12-06 02:44:54.753 [info] Doing a startup handshake.
+2025-12-06 02:44:54.775 [warning] Failed to get branches from remote: Failed to execute git
+2025-12-06 02:44:54.795 [warning] Failed to get default branch from git config: Failed to execute git
+2025-12-06 02:44:54.894 [info] Finished computing merkle tree in 43.02163500000006 ms.
+2025-12-06 02:44:54.895 [info] Doing the initial handshake with hash: 4e574984694eb927eb310c94db61a7879c4bff6a7c532a075e5757d8ea07d9af
+2025-12-06 02:44:54.898 [info] Computed simhash vector of length: 256
+2025-12-06 02:44:54.898 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 02:44:54.898 [info] Handshake start
+2025-12-06 02:44:56.784 [info] Handshake timing: 1887.4667490000002, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 02:44:56.784 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 02:44:56.784 [info] Starting fast remote sync.
+2025-12-06 02:44:56.786 [info] Total num embeddable files: 7
+2025-12-06 02:44:56.787 [info] Root hash: 4e574984694eb927eb310c94db61a7879c4bff6a7c532a075e5757d8ea07d9af
+2025-12-06 02:44:56.787 [info] In the out of sync case.
+2025-12-06 02:44:56.796 [info] Waiting on semaphore to be released 1
+2025-12-06 02:44:56.995 [info] Waiting on semaphore to be released 1
+2025-12-06 02:44:57.196 [info] Waiting on semaphore to be released 1
+2025-12-06 02:44:57.396 [info] Waiting on semaphore to be released 1
+2025-12-06 02:44:57.597 [info] setting numJobsToGo to 2
+2025-12-06 02:44:57.597 [info] [startSync]: numJobs: 2
+2025-12-06 02:44:57.597 [info] Uploading 2 files.
+2025-12-06 02:44:57.598 [info] Total number of files to embed: 7
+2025-12-06 02:44:57.598 [info] Not aborted
+2025-12-06 02:44:57.598 [info] Starting while loop.
+2025-12-06 02:44:57.626 [info] syncing batch of 2 files and 15805 bytes
+2025-12-06 02:44:59.229 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate
+2025-12-06 02:44:59.229 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate.backup
+2025-12-06 02:44:59.746 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-12-06 02:45:00.209 [info] Finished indexing repository.
+2025-12-06 02:45:00.209 [info] Indexing job successfully done or aborted.
+2025-12-06 02:46:06.778 [info] multiCodebaseIndexingJob dispose
+2025-12-06 02:46:06.778 [info] Aborting indexing job.

@@ -1,0 +1,22 @@
+2025-12-06 16:43:29.619 [info] [main] Log level: Info
+2025-12-06 16:43:29.619 [info] [main] Validating found git in: "git"
+2025-12-06 16:43:29.619 [info] [main] Using git "2.52.0" from "git"
+2025-12-06 16:43:29.619 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-06 16:43:29.619 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-06 16:43:29.620 [info] > git config --get remote.origin.url [3ms]
+2025-12-06 16:43:29.621 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [3ms]
+2025-12-06 16:43:29.621 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-06 16:43:29.622 [info] > git config --get remote.origin.url [8ms]
+2025-12-06 16:43:29.622 [info] > git log --skip=0 --max-count=1 --pretty=format:%H [12ms]
+2025-12-06 16:43:29.622 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-06 16:43:30.408 [info] > git rev-parse --verify origin/main [590ms]
+2025-12-06 16:43:30.408 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-06 16:43:30.452 [info] > git rev-parse --verify origin/master [41ms]
+2025-12-06 16:43:30.452 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-06 16:43:30.482 [info] > git rev-parse --verify origin/develop [26ms]
+2025-12-06 16:43:30.482 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-06 16:43:30.489 [info] > git branch -r [3ms]
+2025-12-06 16:43:30.489 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-06 16:43:30.506 [info] > git config --get init.defaultBranch [13ms]
+2025-12-06 16:43:30.944 [info] > git remote get-url --push origin [2ms]
+2025-12-06 16:43:30.944 [info] fatal: not a git repository (or any of the parent directories): .git

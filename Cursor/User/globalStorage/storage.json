@@ -7,7 +7,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/avi/Projects/validation"
+                "folderUri": "file:///home/avi/Documents/terraform_tf"
+            },
+            {
+                "folderUri": "file:///home/avi/Documents/Terraform_Project"
             }
         ],
         "emptyWindows": []
@@ -16,7 +19,9 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/avi/Projects/avinashingle45": "__default__profile__",
-            "file:///home/avi/Projects/validation": "__default__profile__"
+            "file:///home/avi/Projects/validation": "__default__profile__",
+            "file:///home/avi/Documents/terraform_tf": "__default__profile__",
+            "file:///home/avi/Documents/Terraform_Project": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -39,26 +44,27 @@
             "statusBarNoFolderBackground": "#141414"
         },
         "layoutInfo": {
-            "sideBarSide": "left",
+            "sideBarSide": "right",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 35,
+            "titleBarHeight": 50,
             "activityBarWidth": 0,
-            "sideBarWidth": 170,
-            "auxiliarySideBarWidth": 0,
-            "statusBarHeight": 22,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 432,
+            "statusBarHeight": 0,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/avi/Projects/validation",
-            "backupPath": "/home/avi/.config/Cursor/Backups/a12ef5dc672f36f65f58a8142b7fb4ac",
+            "folder": "file:///home/avi/Documents/Terraform_Project",
+            "backupPath": "/home/avi/.config/Cursor/Backups/2b52fd16db751b99928c12c11dea062e",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 1280,
-                "height": 720
+                "width": 640,
+                "height": 682,
+                "zoomLevel": -2
             }
         },
         "openedWindows": []
@@ -66,9 +72,11 @@
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
             "auxiliarySideBarWidth": [
-                453,
+                432,
                 [
-                    "a0327b755c48d9e1f22a37dc1310572b"
+                    "a0327b755c48d9e1f22a37dc1310572b",
+                    "ff8f862fdf5743148b3fcdb44b64c13f",
+                    "32a26f38b824374a0ba529dca5eb2ff3"
                 ]
             ]
         }

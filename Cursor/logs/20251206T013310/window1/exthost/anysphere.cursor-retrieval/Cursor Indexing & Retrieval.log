@@ -1,0 +1,308 @@
+2025-12-06 01:33:14.297 [error] Error getting repo info: Failed to execute git
+2025-12-06 01:33:14.297 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34772)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33895)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1444916)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1420845)
+2025-12-06 01:33:14.297 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-12-06 01:33:14.297 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-12-06 01:33:14.297 [info] Using existing keys for an index
+2025-12-06 01:33:14.297 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-12-06 01:33:14.297 [info] Using existing keys for an index
+2025-12-06 01:33:14.297 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-12-06 01:33:14.297 [info] Starting RepoIndexWatcher for repo: 9a696be1-5c9c-473a-8f8a-5fa0cce49d87, owner: github|user_01KBDR6JZM2SDEK3MF9C6852Z0
+2025-12-06 01:33:14.297 [info] Setting global status from status tracker: synced
+2025-12-06 01:33:14.297 [info] Doing a startup handshake.
+2025-12-06 01:33:14.297 [warning] Failed to get symbolic ref: Failed to execute git
+2025-12-06 01:33:14.297 [error] Error getting repo info: Failed to execute git
+2025-12-06 01:33:14.298 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/avi/Documents/terraform_tf/.git/HEAD')
+2025-12-06 01:33:14.325 [warning] Failed to get branches from remote: Failed to execute git
+2025-12-06 01:33:14.332 [warning] Failed to get default branch from git config: Failed to execute git
+2025-12-06 01:33:14.340 [info] Finished computing merkle tree in 6.613529999999628 ms.
+2025-12-06 01:33:14.341 [info] Doing the initial handshake with hash: 8f071a3094ffb6cedde8e2acc4babfae8bfd43b0fcdad7d41420957f00d10409
+2025-12-06 01:33:14.346 [info] Computed simhash vector of length: 256
+2025-12-06 01:33:14.346 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 01:33:14.346 [info] Handshake start
+2025-12-06 01:33:18.351 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:33:18.352 [info] Handshake start
+2025-12-06 01:33:18.942 [info] Handshake timing: 593.4725760000001, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 01:33:18.942 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 01:33:18.942 [info] Starting fast remote sync.
+2025-12-06 01:33:18.944 [info] Total num embeddable files: 7
+2025-12-06 01:33:18.946 [info] Root hash: 8f071a3094ffb6cedde8e2acc4babfae8bfd43b0fcdad7d41420957f00d10409
+2025-12-06 01:33:18.946 [info] In the out of sync case.
+2025-12-06 01:33:18.949 [info] Waiting on semaphore to be released 1
+2025-12-06 01:33:19.147 [info] Waiting on semaphore to be released 1
+2025-12-06 01:33:19.347 [info] Waiting on semaphore to be released 1
+2025-12-06 01:33:19.547 [info] Waiting on semaphore to be released 1
+2025-12-06 01:33:19.749 [info] setting numJobsToGo to 3
+2025-12-06 01:33:19.749 [info] [startSync]: numJobs: 3
+2025-12-06 01:33:19.749 [info] Uploading 3 files.
+2025-12-06 01:33:19.750 [info] Total number of files to embed: 7
+2025-12-06 01:33:19.750 [info] Not aborted
+2025-12-06 01:33:19.750 [info] Starting while loop.
+2025-12-06 01:33:19.752 [info] syncing batch of 2 files and 16649 bytes
+2025-12-06 01:33:21.407 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./main.tf
+2025-12-06 01:33:21.408 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate.backup
+2025-12-06 01:33:23.308 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate
+2025-12-06 01:33:23.596 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-12-06 01:33:24.308 [info] Finished indexing repository.
+2025-12-06 01:33:24.308 [info] Indexing job successfully done or aborted.
+2025-12-06 01:37:51.738 [info] multiCodebaseIndexingJob dispose
+2025-12-06 01:37:51.738 [info] Aborting indexing job.
+2025-12-06 01:37:51.738 [info] Setting global status from status tracker: synced
+2025-12-06 01:37:51.738 [info] Doing a startup handshake.
+2025-12-06 01:37:51.746 [info] Finished computing merkle tree in 3.8070380000281148 ms.
+2025-12-06 01:37:51.747 [info] Doing the initial handshake with hash: 8f071a3094ffb6cedde8e2acc4babfae8bfd43b0fcdad7d41420957f00d10409
+2025-12-06 01:37:51.752 [info] Computed simhash vector of length: 256
+2025-12-06 01:37:51.752 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 01:37:51.752 [info] Handshake start
+2025-12-06 01:37:55.755 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:37:55.755 [info] Handshake start
+2025-12-06 01:38:03.759 [warning] Retrying handshake with timeout 8000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:38:03.759 [info] Handshake start
+2025-12-06 01:38:19.760 [warning] Retrying handshake with timeout 16000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:38:19.760 [info] Handshake start
+2025-12-06 01:38:51.764 [warning] Retrying handshake with timeout 32000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:38:51.764 [info] Handshake start
+2025-12-06 01:39:55.768 [warning] Retrying handshake with timeout 64000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:39:55.768 [info] Handshake start
+2025-12-06 01:42:03.770 [warning] Retrying handshake with timeout 128000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:42:03.770 [error] Handshake failed:
+2025-12-06 01:42:03.770 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.tryHandshake (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:2053135)
+	at async t.RepoClientMultiplexer.handshakeWithRetry (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:2048036)
+	at async Q.getServerStatus (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:197743)
+	at async Q.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:199431)
+2025-12-06 01:42:03.771 [error] Handshake failed.
+2025-12-06 01:42:03.771 [info] Indexing job successfully done or aborted.
+2025-12-06 01:42:29.739 [info] multiCodebaseIndexingJob dispose
+2025-12-06 01:42:29.739 [info] Aborting indexing job.
+2025-12-06 01:42:29.739 [info] Doing a startup handshake.
+2025-12-06 01:42:29.746 [info] Finished computing merkle tree in 2.88677799992729 ms.
+2025-12-06 01:42:29.746 [info] Doing the initial handshake with hash: 8f071a3094ffb6cedde8e2acc4babfae8bfd43b0fcdad7d41420957f00d10409
+2025-12-06 01:42:29.749 [info] Computed simhash vector of length: 256
+2025-12-06 01:42:29.749 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 01:42:29.749 [info] Handshake start
+2025-12-06 01:42:33.753 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:42:33.753 [info] Handshake start
+2025-12-06 01:42:41.758 [warning] Retrying handshake with timeout 8000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:42:41.758 [info] Handshake start
+2025-12-06 01:42:57.761 [warning] Retrying handshake with timeout 16000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:42:57.761 [info] Handshake start
+2025-12-06 01:43:29.761 [warning] Retrying handshake with timeout 32000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:43:29.761 [info] Handshake start
+2025-12-06 01:44:33.765 [warning] Retrying handshake with timeout 64000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:44:33.765 [info] Handshake start
+2025-12-06 01:46:41.765 [warning] Retrying handshake with timeout 128000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:46:41.766 [error] Handshake failed:
+2025-12-06 01:46:41.766 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.tryHandshake (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:2053135)
+	at async t.RepoClientMultiplexer.handshakeWithRetry (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:2048036)
+	at async Q.getServerStatus (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:197743)
+	at async Q.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:199431)
+2025-12-06 01:46:41.766 [error] Handshake failed.
+2025-12-06 01:46:41.766 [info] Indexing job successfully done or aborted.
+2025-12-06 01:47:07.739 [info] multiCodebaseIndexingJob dispose
+2025-12-06 01:47:07.739 [info] Aborting indexing job.
+2025-12-06 01:47:07.739 [info] Doing a startup handshake.
+2025-12-06 01:47:07.743 [info] Finished computing merkle tree in 1.220333999954164 ms.
+2025-12-06 01:47:07.743 [info] Doing the initial handshake with hash: 47879f520ffa682b4d1eaf26d6f417b0ef3c45d79f212965f3fcf086087c9cf6
+2025-12-06 01:47:07.744 [info] Computed simhash vector of length: 256
+2025-12-06 01:47:07.744 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 01:47:07.744 [info] Handshake start
+2025-12-06 01:47:11.747 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:47:11.747 [info] Handshake start
+2025-12-06 01:47:19.751 [warning] Retrying handshake with timeout 8000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:47:19.751 [info] Handshake start
+2025-12-06 01:47:35.753 [warning] Retrying handshake with timeout 16000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:47:35.753 [info] Handshake start
+2025-12-06 01:48:07.756 [warning] Retrying handshake with timeout 32000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:48:07.756 [info] Handshake start
+2025-12-06 01:49:11.757 [warning] Retrying handshake with timeout 64000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:49:11.757 [info] Handshake start
+2025-12-06 01:51:19.760 [warning] Retrying handshake with timeout 128000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:51:19.760 [error] Handshake failed:
+2025-12-06 01:51:19.760 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.tryHandshake (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:2053135)
+	at async t.RepoClientMultiplexer.handshakeWithRetry (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:2048036)
+	at async Q.getServerStatus (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:197743)
+	at async Q.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:199431)
+2025-12-06 01:51:19.761 [error] Handshake failed.
+2025-12-06 01:51:19.761 [info] Indexing job successfully done or aborted.
+2025-12-06 01:51:45.741 [info] multiCodebaseIndexingJob dispose
+2025-12-06 01:51:45.741 [info] Aborting indexing job.
+2025-12-06 01:51:45.741 [info] Doing a startup handshake.
+2025-12-06 01:51:45.748 [info] Finished computing merkle tree in 3.091729999985546 ms.
+2025-12-06 01:51:45.749 [info] Doing the initial handshake with hash: 47879f520ffa682b4d1eaf26d6f417b0ef3c45d79f212965f3fcf086087c9cf6
+2025-12-06 01:51:45.752 [info] Computed simhash vector of length: 256
+2025-12-06 01:51:45.752 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 01:51:45.752 [info] Handshake start
+2025-12-06 01:51:49.757 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:51:49.757 [info] Handshake start
+2025-12-06 01:51:57.758 [warning] Retrying handshake with timeout 8000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:51:57.758 [info] Handshake start
+2025-12-06 01:52:13.761 [warning] Retrying handshake with timeout 16000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:52:13.761 [info] Handshake start
+2025-12-06 01:52:45.769 [warning] Retrying handshake with timeout 32000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:52:45.769 [info] Handshake start
+2025-12-06 01:53:49.772 [warning] Retrying handshake with timeout 64000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:53:49.772 [info] Handshake start
+2025-12-06 01:55:57.771 [warning] Retrying handshake with timeout 128000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:55:57.771 [error] Handshake failed:
+2025-12-06 01:55:57.772 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.tryHandshake (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:2053135)
+	at async t.RepoClientMultiplexer.handshakeWithRetry (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:2048036)
+	at async Q.getServerStatus (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:197743)
+	at async Q.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:199431)
+2025-12-06 01:55:57.772 [error] Handshake failed.
+2025-12-06 01:55:57.772 [info] Indexing job successfully done or aborted.
+2025-12-06 01:56:23.742 [info] multiCodebaseIndexingJob dispose
+2025-12-06 01:56:23.742 [info] Aborting indexing job.
+2025-12-06 01:56:23.742 [info] Doing a startup handshake.
+2025-12-06 01:56:23.749 [info] Finished computing merkle tree in 3.4187849999871105 ms.
+2025-12-06 01:56:23.751 [info] Doing the initial handshake with hash: da24f0a7d2abfb50ecaf21aea4e876a33df916666ea30149c0bf36a8bb668e77
+2025-12-06 01:56:23.752 [info] Computed simhash vector of length: 256
+2025-12-06 01:56:23.752 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 01:56:23.752 [info] Handshake start
+2025-12-06 01:56:27.757 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:56:27.757 [info] Handshake start
+2025-12-06 01:56:35.761 [warning] Retrying handshake with timeout 8000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:56:35.761 [info] Handshake start
+2025-12-06 01:56:51.763 [warning] Retrying handshake with timeout 16000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:56:51.763 [info] Handshake start
+2025-12-06 01:57:23.766 [warning] Retrying handshake with timeout 32000. Error:  [deadline_exceeded] the operation timed out
+2025-12-06 01:57:23.766 [info] Handshake start
+2025-12-06 01:57:24.522 [info] Handshake timing: 757.7059909999371, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 01:57:24.522 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 01:57:24.522 [info] Starting fast remote sync.
+2025-12-06 01:57:24.523 [info] Total num embeddable files: 7
+2025-12-06 01:57:24.523 [info] Root hash: da24f0a7d2abfb50ecaf21aea4e876a33df916666ea30149c0bf36a8bb668e77
+2025-12-06 01:57:24.523 [info] In the out of sync case.
+2025-12-06 01:57:24.525 [info] Waiting on semaphore to be released 1
+2025-12-06 01:57:24.723 [info] Waiting on semaphore to be released 1
+2025-12-06 01:57:24.925 [info] setting numJobsToGo to 3
+2025-12-06 01:57:24.925 [info] [startSync]: numJobs: 3
+2025-12-06 01:57:24.925 [info] Uploading 3 files.
+2025-12-06 01:57:24.927 [info] Total number of files to embed: 7
+2025-12-06 01:57:24.927 [info] Not aborted
+2025-12-06 01:57:24.927 [info] Starting while loop.
+2025-12-06 01:57:24.934 [info] syncing batch of 2 files and 17544 bytes
+2025-12-06 01:57:27.481 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./main.tf
+2025-12-06 01:57:27.481 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate.backup
+2025-12-06 01:57:30.124 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate
+2025-12-06 01:57:30.893 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-12-06 01:57:31.479 [info] Finished indexing repository.
+2025-12-06 01:57:31.479 [info] Indexing job successfully done or aborted.
+2025-12-06 02:01:01.743 [info] multiCodebaseIndexingJob dispose
+2025-12-06 02:01:01.743 [info] Aborting indexing job.
+2025-12-06 02:01:01.743 [info] Setting global status from status tracker: synced
+2025-12-06 02:01:01.743 [info] Doing a startup handshake.
+2025-12-06 02:01:01.749 [info] Finished computing merkle tree in 3.145180999999866 ms.
+2025-12-06 02:01:01.750 [info] Doing the initial handshake with hash: b8a615599d32f99b360210fb7f610d84f64e66c406602ee759023d6cbac6da39
+2025-12-06 02:01:01.753 [info] Computed simhash vector of length: 256
+2025-12-06 02:01:01.753 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 02:01:01.753 [info] Handshake start
+2025-12-06 02:01:02.160 [info] Handshake timing: 408.7938739999663, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 02:01:02.160 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 02:01:02.160 [info] Starting fast remote sync.
+2025-12-06 02:01:02.161 [info] Total num embeddable files: 7
+2025-12-06 02:01:02.161 [info] Root hash: b8a615599d32f99b360210fb7f610d84f64e66c406602ee759023d6cbac6da39
+2025-12-06 02:01:02.162 [info] In the out of sync case.
+2025-12-06 02:01:02.163 [info] Waiting on semaphore to be released 1
+2025-12-06 02:01:02.362 [info] Waiting on semaphore to be released 1
+2025-12-06 02:01:02.564 [info] setting numJobsToGo to 3
+2025-12-06 02:01:02.564 [info] [startSync]: numJobs: 3
+2025-12-06 02:01:02.564 [info] Uploading 3 files.
+2025-12-06 02:01:02.565 [info] Total number of files to embed: 7
+2025-12-06 02:01:02.565 [info] Not aborted
+2025-12-06 02:01:02.565 [info] Starting while loop.
+2025-12-06 02:01:02.574 [info] syncing batch of 2 files and 2328 bytes
+2025-12-06 02:01:05.281 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./main.tf
+2025-12-06 02:01:05.281 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate.backup
+2025-12-06 02:01:07.389 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate
+2025-12-06 02:01:08.130 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-12-06 02:01:08.928 [info] Finished indexing repository.
+2025-12-06 02:01:08.928 [info] Indexing job successfully done or aborted.
+2025-12-06 02:05:39.744 [info] multiCodebaseIndexingJob dispose
+2025-12-06 02:05:39.744 [info] Aborting indexing job.
+2025-12-06 02:05:39.744 [info] Setting global status from status tracker: synced
+2025-12-06 02:05:39.744 [info] Doing a startup handshake.
+2025-12-06 02:05:39.753 [info] Finished computing merkle tree in 3.8334539998322725 ms.
+2025-12-06 02:05:39.754 [info] Doing the initial handshake with hash: b8a615599d32f99b360210fb7f610d84f64e66c406602ee759023d6cbac6da39
+2025-12-06 02:05:39.756 [info] Computed simhash vector of length: 256
+2025-12-06 02:05:39.756 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 02:05:39.756 [info] Handshake start
+2025-12-06 02:05:40.433 [info] Handshake timing: 677.1583999998402, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-12-06 02:05:40.433 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-12-06 02:05:40.433 [info] Starting fast remote sync.
+2025-12-06 02:05:40.435 [info] Total num embeddable files: 7
+2025-12-06 02:05:40.436 [info] Root hash: b8a615599d32f99b360210fb7f610d84f64e66c406602ee759023d6cbac6da39
+2025-12-06 02:05:40.439 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-12-06 02:05:43.709 [info] Finished indexing repository.
+2025-12-06 02:05:43.709 [info] Indexing job successfully done or aborted.
+2025-12-06 02:10:17.744 [info] multiCodebaseIndexingJob dispose
+2025-12-06 02:10:17.744 [info] Aborting indexing job.
+2025-12-06 02:10:17.744 [info] Setting global status from status tracker: synced
+2025-12-06 02:10:17.744 [info] Doing a startup handshake.
+2025-12-06 02:10:17.749 [info] Finished computing merkle tree in 2.4711980000138283 ms.
+2025-12-06 02:10:17.750 [info] Doing the initial handshake with hash: 5bf1ce5bb2ab7462a10311c06ad4550478397d7b09dd43304da09101c800ea3f
+2025-12-06 02:10:17.754 [info] Computed simhash vector of length: 256
+2025-12-06 02:10:17.754 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 02:10:17.754 [info] Handshake start
+2025-12-06 02:10:18.108 [info] Handshake timing: 356.28013900015503, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 02:10:18.109 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 02:10:18.109 [info] Starting fast remote sync.
+2025-12-06 02:10:18.109 [info] Total num embeddable files: 7
+2025-12-06 02:10:18.110 [info] Root hash: 5bf1ce5bb2ab7462a10311c06ad4550478397d7b09dd43304da09101c800ea3f
+2025-12-06 02:10:18.110 [info] In the out of sync case.
+2025-12-06 02:10:18.112 [info] Waiting on semaphore to be released 1
+2025-12-06 02:10:18.311 [info] Waiting on semaphore to be released 1
+2025-12-06 02:10:18.512 [info] setting numJobsToGo to 3
+2025-12-06 02:10:18.512 [info] [startSync]: numJobs: 3
+2025-12-06 02:10:18.512 [info] Uploading 3 files.
+2025-12-06 02:10:18.514 [info] Total number of files to embed: 7
+2025-12-06 02:10:18.514 [info] Not aborted
+2025-12-06 02:10:18.514 [info] Starting while loop.
+2025-12-06 02:10:18.518 [info] syncing batch of 2 files and 18391 bytes
+2025-12-06 02:10:21.067 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./main.tf
+2025-12-06 02:10:21.067 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate.backup
+2025-12-06 02:10:23.330 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate
+2025-12-06 02:10:23.610 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-12-06 02:10:24.252 [info] Finished indexing repository.
+2025-12-06 02:10:24.252 [info] Indexing job successfully done or aborted.
+2025-12-06 02:14:55.747 [info] multiCodebaseIndexingJob dispose
+2025-12-06 02:14:55.747 [info] Aborting indexing job.
+2025-12-06 02:14:55.747 [info] Setting global status from status tracker: synced
+2025-12-06 02:14:55.747 [info] Doing a startup handshake.
+2025-12-06 02:14:55.753 [info] Finished computing merkle tree in 2.665163000114262 ms.
+2025-12-06 02:14:55.754 [info] Doing the initial handshake with hash: 9fb137c378f39b97dc803ad5062f7cdd57ca94fc4e4c7cecb0ab7efde72106c1
+2025-12-06 02:14:55.756 [info] Computed simhash vector of length: 256
+2025-12-06 02:14:55.756 [info] Path key hash: 49f275bf8bf78ac6a1332bdc24b26d82aaee24e8ec8bbb9ee4faf4bb40eda3de
+2025-12-06 02:14:55.756 [info] Handshake start
+2025-12-06 02:14:56.053 [info] Handshake timing: 297.1064820000902, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 02:14:56.053 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"68174813-e444-4fa3-b8c7-31b1a3a53c84","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-12-06 02:14:56.053 [info] Starting fast remote sync.
+2025-12-06 02:14:56.055 [info] Total num embeddable files: 7
+2025-12-06 02:14:56.055 [info] Root hash: 9fb137c378f39b97dc803ad5062f7cdd57ca94fc4e4c7cecb0ab7efde72106c1
+2025-12-06 02:14:56.055 [info] In the out of sync case.
+2025-12-06 02:14:56.058 [info] Waiting on semaphore to be released 1
+2025-12-06 02:14:56.257 [info] Waiting on semaphore to be released 1
+2025-12-06 02:14:56.457 [info] Waiting on semaphore to be released 1
+2025-12-06 02:14:56.657 [info] Waiting on semaphore to be released 1
+2025-12-06 02:14:56.858 [info] Waiting on semaphore to be released 1
+2025-12-06 02:14:57.058 [info] Waiting on semaphore to be released 1
+2025-12-06 02:14:57.260 [info] setting numJobsToGo to 2
+2025-12-06 02:14:57.260 [info] [startSync]: numJobs: 2
+2025-12-06 02:14:57.260 [info] Uploading 2 files.
+2025-12-06 02:14:57.261 [info] Total number of files to embed: 7
+2025-12-06 02:14:57.261 [info] Not aborted
+2025-12-06 02:14:57.261 [info] Starting while loop.
+2025-12-06 02:14:57.270 [info] syncing batch of 2 files and 16728 bytes
+2025-12-06 02:15:00.024 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate.backup
+2025-12-06 02:15:00.024 [info] Completed job successfully: 68174813-e444-4fa3-b8c7-31b1a3a53c84 ./terraform.tfstate
+2025-12-06 02:15:00.329 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-12-06 02:15:00.838 [info] Finished indexing repository.
+2025-12-06 02:15:00.838 [info] Indexing job successfully done or aborted.
+2025-12-06 02:15:02.872 [info] multiCodebaseIndexingJob dispose
+2025-12-06 02:15:02.872 [info] Aborting indexing job.

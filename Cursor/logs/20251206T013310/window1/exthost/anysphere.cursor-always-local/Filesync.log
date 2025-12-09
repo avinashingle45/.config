@@ -1,0 +1,160 @@
+2025-12-06 01:33:14.333 [error] Failed to check if file sync is enabled for user {}
+2025-12-06 01:33:14.333 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-06 01:33:14.333 [error] Failed to fetch fsConfig File sync is disabled
+2025-12-06 01:33:14.537 [info] [registerEventListeners] Registering event listeners
+2025-12-06 01:33:17.507 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-06 01:33:17.875 [info] Fetched fsConfig in 367.08998299999985ms
+2025-12-06 01:33:17.875 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-06 01:33:20.724 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-06 01:33:21.470 [info] Starting sync of visible tabs
+2025-12-06 01:33:21.658 [info] Fetched fsConfig in 933.2540840000001ms
+2025-12-06 01:33:21.658 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-06 01:33:21.659 [info] File sync enabled status: true
+2025-12-06 01:33:21.659 [info] Starting sync of visible tabs
+2025-12-06 01:33:21.715 [info] Uploaded file main.tf modelVersion=1 in 239.89083000000028ms
+2025-12-06 01:33:21.715 [info] Synced all visible tabs in 247.8834420000003ms
+2025-12-06 01:33:21.722 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-06 01:33:21.921 [info] Uploaded file main.tf modelVersion=1 in 260.22367699999995ms
+2025-12-06 01:33:21.921 [info] Synced all visible tabs in 263.02902600000016ms
+2025-12-06 01:33:21.975 [info] Fetched fsConfig in 252.98225400000047ms
+2025-12-06 01:33:21.975 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-06 01:40:16.693 [info] Handled visible editors change in 0.7913509999634698ms
+2025-12-06 01:40:18.779 [info] Handled visible editors change in 0.4123789999866858ms
+2025-12-06 01:40:19.110 [info] Uploaded file provider.tf modelVersion=1 in 2304.1503459999803ms
+2025-12-06 01:40:19.110 [info] Handled visible editors change in 2368.5905720000155ms
+2025-12-06 01:40:19.395 [info] Uploaded file variable.tf modelVersion=1 in 540.3753670000006ms
+2025-12-06 01:40:19.395 [info] Handled visible editors change in 590.6183890000102ms
+2025-12-06 01:41:20.142 [info] Handled visible editors change in 0.22893300000578165ms
+2025-12-06 01:41:20.170 [info] Handled visible editors change in 0.7492310000234284ms
+2025-12-06 01:41:25.955 [info] Handled visible editors change in 0.22594300005584955ms
+2025-12-06 01:41:26.560 [info] Uploaded file main.tf modelVersion=1 in 517.3958030000213ms
+2025-12-06 01:41:26.560 [info] Handled visible editors change in 587.8253890000051ms
+2025-12-06 01:46:07.680 [info] Synced file main.tf modelVersion=2 in 940.4283150000265ms
+2025-12-06 01:46:09.697 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-06 01:46:10.022 [info] Fetched fsConfig in 324.8066869999748ms
+2025-12-06 01:46:10.022 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-06 01:46:10.022 [info] File sync enabled status: true
+2025-12-06 01:46:10.022 [info] Starting sync of visible tabs
+2025-12-06 01:46:10.022 [info] Synced all visible tabs in 0.21048899996094406ms
+2025-12-06 01:54:05.400 [info] Uploaded file main.tf modelVersion=4 in 761.9774829999078ms
+2025-12-06 01:54:05.406 [info] Uploaded file main.tf modelVersion=3 in 899.868889000034ms
+2025-12-06 01:54:05.407 [info] Uploaded file main.tf modelVersion=3 in 903.577825000044ms
+2025-12-06 01:54:05.412 [info] Uploaded file main.tf modelVersion=6 in 456.28931199992076ms
+2025-12-06 01:54:05.421 [info] Uploaded file main.tf modelVersion=5 in 607.3963270001113ms
+2025-12-06 01:54:05.489 [info] Uploaded file main.tf modelVersion=7 in 290.68104099994525ms
+2025-12-06 01:54:05.649 [info] Uploaded file main.tf modelVersion=8 in 298.40871599991806ms
+2025-12-06 01:54:06.360 [info] Synced file main.tf modelVersion=9 in 592.8715889998712ms
+2025-12-06 01:54:07.492 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-06 01:54:07.699 [info] Synced file main.tf modelVersion=13 in 224.67531200009398ms
+2025-12-06 01:54:07.743 [info] Fetched fsConfig in 250.18543499987572ms
+2025-12-06 01:54:07.743 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-06 01:54:07.743 [info] File sync enabled status: true
+2025-12-06 01:54:07.743 [info] Starting sync of visible tabs
+2025-12-06 01:54:07.743 [info] Synced all visible tabs in 0.19011999992653728ms
+2025-12-06 01:54:08.362 [info] Synced file main.tf modelVersion=14 in 308.57973799994215ms
+2025-12-06 01:54:10.640 [info] Synced file main.tf modelVersion=19 in 347.09016599995084ms
+2025-12-06 01:54:11.294 [info] Synced file main.tf modelVersion=21 in 484.40369899990037ms
+2025-12-06 01:54:12.303 [info] Synced file main.tf modelVersion=24 in 247.6021129998844ms
+2025-12-06 01:54:12.907 [info] Synced file main.tf modelVersion=25 in 395.9026779998094ms
+2025-12-06 01:54:14.213 [info] Synced file main.tf modelVersion=26 in 1030.009508999996ms
+2025-12-06 01:54:15.954 [info] Synced file main.tf modelVersion=32 in 250.71731700003147ms
+2025-12-06 01:54:16.619 [info] Synced file main.tf modelVersion=33 in 227.02764300000854ms
+2025-12-06 01:54:17.926 [info] Synced file main.tf modelVersion=37 in 241.3940990001429ms
+2025-12-06 01:54:18.521 [info] Synced file main.tf modelVersion=38 in 319.1336419999134ms
+2025-12-06 01:54:19.211 [info] Synced file main.tf modelVersion=40 in 409.80990499979816ms
+2025-12-06 01:54:20.040 [info] Synced file main.tf modelVersion=41 in 282.61414900003ms
+2025-12-06 01:54:21.695 [info] Synced file main.tf modelVersion=42 in 447.7295770000201ms
+2025-12-06 01:54:40.535 [info] Synced file main.tf modelVersion=43 in 221.83953700005077ms
+2025-12-06 01:54:42.162 [info] Synced file main.tf modelVersion=44 in 483.8998080000747ms
+2025-12-06 01:54:50.173 [info] Synced file main.tf modelVersion=45 in 957.0957919999491ms
+2025-12-06 01:54:50.676 [info] Synced file main.tf modelVersion=46 in 283.49324400001206ms
+2025-12-06 01:54:52.477 [info] Synced file main.tf modelVersion=47 in 828.9257819999475ms
+2025-12-06 01:54:54.235 [info] Synced file main.tf modelVersion=48 in 754.8736310000531ms
+2025-12-06 01:54:54.416 [info] Synced file main.tf modelVersion=49 in 234.3657790001016ms
+2025-12-06 01:57:07.425 [info] Synced file main.tf modelVersion=50 in 219.6028500001412ms
+2025-12-06 01:57:09.692 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-06 01:57:10.023 [info] Fetched fsConfig in 330.00616800016724ms
+2025-12-06 01:57:10.023 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-06 01:57:10.023 [info] File sync enabled status: true
+2025-12-06 01:57:10.023 [info] Starting sync of visible tabs
+2025-12-06 01:57:10.023 [info] Synced all visible tabs in 0.17800700012594461ms
+2025-12-06 01:57:21.695 [info] Synced file main.tf modelVersion=51 in 485.7043600000907ms
+2025-12-06 01:57:22.694 [info] Synced file main.tf modelVersion=53 in 437.2288760000374ms
+2025-12-06 01:57:24.451 [info] Synced file main.tf modelVersion=64 in 344.4952990000602ms
+2025-12-06 01:57:24.681 [info] Synced file main.tf modelVersion=65 in 220.57391399983317ms
+2025-12-06 01:57:25.685 [info] Synced file main.tf modelVersion=66 in 246.5259729998652ms
+2025-12-06 01:57:26.339 [info] Synced file main.tf modelVersion=68 in 350.96448200009763ms
+2025-12-06 01:57:27.163 [info] Synced file main.tf modelVersion=69 in 270.5530129999388ms
+2025-12-06 01:57:27.821 [info] Synced file main.tf modelVersion=70 in 494.05600800015964ms
+2025-12-06 01:57:28.523 [info] Synced file main.tf modelVersion=71 in 504.2408839999698ms
+2025-12-06 01:57:28.855 [info] Synced file main.tf modelVersion=74 in 248.43014499987476ms
+2025-12-06 01:57:33.371 [info] Synced file main.tf modelVersion=75 in 515.39113299991ms
+2025-12-06 01:57:46.392 [info] Synced file main.tf modelVersion=76 in 312.96349700004794ms
+2025-12-06 01:57:47.542 [info] Synced file main.tf modelVersion=96 in 336.6492050001398ms
+2025-12-06 01:57:48.004 [info] Synced file main.tf modelVersion=102 in 304.8021299999673ms
+2025-12-06 01:57:49.162 [info] Synced file main.tf modelVersion=106 in 363.3969260000158ms
+2025-12-06 01:57:49.163 [info] Synced file main.tf modelVersion=104 in 914.951719999779ms
+2025-12-06 01:57:49.164 [info] Synced file main.tf modelVersion=105 in 650.6927249999717ms
+2025-12-06 01:57:49.809 [info] Synced file main.tf modelVersion=107 in 252.65428000013344ms
+2025-12-06 01:57:50.689 [info] Synced file main.tf modelVersion=110 in 302.218323999783ms
+2025-12-06 01:57:51.157 [info] Synced file main.tf modelVersion=111 in 253.4566779998131ms
+2025-12-06 01:57:52.223 [info] Synced file main.tf modelVersion=114 in 334.16801500017755ms
+2025-12-06 01:57:56.816 [info] Synced file main.tf modelVersion=115 in 265.53093699994497ms
+2025-12-06 01:57:58.174 [info] Synced file main.tf modelVersion=121 in 508.5591710000299ms
+2025-12-06 01:58:03.903 [info] Synced file main.tf modelVersion=127 in 2433.781720999861ms
+2025-12-06 01:58:03.947 [info] Synced file main.tf modelVersion=128 in 1475.756332000019ms
+2025-12-06 01:58:04.084 [info] Synced file main.tf modelVersion=129 in 746.2990729999729ms
+2025-12-06 01:58:04.288 [info] Synced file main.tf modelVersion=130 in 272.8610340000596ms
+2025-12-06 01:58:05.281 [info] Synced file main.tf modelVersion=133 in 310.092844999861ms
+2025-12-06 01:58:06.446 [info] Synced file main.tf modelVersion=134 in 512.5329930000007ms
+2025-12-06 01:58:10.291 [info] Synced file main.tf modelVersion=136 in 279.8134550000541ms
+2025-12-06 01:58:10.825 [info] Synced file main.tf modelVersion=137 in 249.64777300017886ms
+2025-12-06 01:58:11.767 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-06 01:58:12.280 [info] Synced file main.tf modelVersion=140 in 490.8075190000236ms
+2025-12-06 01:58:12.280 [info] Fetched fsConfig in 513.2655859999359ms
+2025-12-06 01:58:12.280 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-06 01:58:12.280 [info] File sync enabled status: true
+2025-12-06 01:58:12.280 [info] Starting sync of visible tabs
+2025-12-06 01:58:12.920 [info] Uploaded file main.tf modelVersion=143 in 636.9367129998282ms
+2025-12-06 01:58:12.920 [info] Synced all visible tabs in 639.6130909998901ms
+2025-12-06 01:58:12.992 [info] Synced file main.tf modelVersion=143 in 472.23168900003657ms
+2025-12-06 01:58:14.892 [info] Synced file main.tf modelVersion=146 in 1151.679773000069ms
+2025-12-06 01:58:18.737 [info] Synced file main.tf modelVersion=149 in 505.91106499987654ms
+2025-12-06 01:58:20.035 [info] Synced file main.tf modelVersion=152 in 685.6924310000613ms
+2025-12-06 01:58:20.498 [info] Synced file main.tf modelVersion=153 in 234.29298199992627ms
+2025-12-06 01:58:23.074 [info] Synced file main.tf modelVersion=156 in 315.96068000001833ms
+2025-12-06 01:58:23.519 [info] Synced file main.tf modelVersion=158 in 273.1350739998743ms
+2025-12-06 01:58:25.992 [info] Synced file main.tf modelVersion=159 in 835.2859390000813ms
+2025-12-06 01:58:39.826 [info] Synced file main.tf modelVersion=160 in 2108.4131440001074ms
+2025-12-06 01:58:39.827 [info] Synced file main.tf modelVersion=161 in 1802.0713100000285ms
+2025-12-06 01:58:39.834 [info] Synced file main.tf modelVersion=162 in 1406.7832800000906ms
+2025-12-06 01:58:40.006 [info] Synced file main.tf modelVersion=163 in 510.0183449999895ms
+2025-12-06 01:58:40.442 [info] Synced file main.tf modelVersion=164 in 226.955348999938ms
+2025-12-06 01:58:41.208 [info] Synced file main.tf modelVersion=165 in 256.2443089999724ms
+2025-12-06 01:58:42.646 [info] Synced file main.tf modelVersion=167 in 276.67130700009875ms
+2025-12-06 01:58:43.022 [info] Synced file main.tf modelVersion=168 in 268.846939999843ms
+2025-12-06 01:58:55.200 [info] Synced file main.tf modelVersion=169 in 1049.261679999996ms
+2025-12-06 01:58:57.842 [info] Synced file main.tf modelVersion=170 in 221.2683079999406ms
+2025-12-06 01:59:01.020 [info] Synced file main.tf modelVersion=171 in 1249.9093629999552ms
+2025-12-06 01:59:04.198 [info] Synced file main.tf modelVersion=172 in 474.483424999984ms
+2025-12-06 01:59:05.185 [info] Synced file main.tf modelVersion=173 in 874.2127720001154ms
+2025-12-06 01:59:13.282 [info] Synced file main.tf modelVersion=174 in 684.7933529999573ms
+2025-12-06 01:59:13.782 [info] Synced file main.tf modelVersion=182 in 305.29690900002606ms
+2025-12-06 01:59:15.171 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-06 01:59:15.915 [info] Synced file main.tf modelVersion=183 in 951.5990959999617ms
+2025-12-06 01:59:15.967 [info] Fetched fsConfig in 795.3278120001778ms
+2025-12-06 01:59:15.967 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-06 01:59:15.967 [info] File sync enabled status: true
+2025-12-06 01:59:15.967 [info] Starting sync of visible tabs
+2025-12-06 01:59:15.967 [info] Synced all visible tabs in 0.17446399992331862ms
+2025-12-06 02:08:40.357 [info] Uploaded file main.tf modelVersion=184 in 1192.663327000104ms
+2025-12-06 02:08:40.364 [info] Uploaded file main.tf modelVersion=184 in 1200.2078140000813ms
+2025-12-06 02:08:41.154 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-12-06 02:08:41.615 [info] Fetched fsConfig in 460.6913100001402ms
+2025-12-06 02:08:41.615 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-12-06 02:08:41.615 [info] File sync enabled status: true
+2025-12-06 02:08:41.615 [info] Starting sync of visible tabs
+2025-12-06 02:08:41.615 [info] Synced all visible tabs in 0.08814300037920475ms
+2025-12-06 02:15:01.927 [info] Uploaded file main.tf modelVersion=184 in 825.5208629998378ms
+2025-12-06 02:15:01.928 [info] Uploaded file main.tf modelVersion=184 in 531.2331869998015ms
+2025-12-06 02:15:02.272 [info] Uploaded file main.tf modelVersion=184 in 592.5210100002587ms

@@ -1,0 +1,10 @@
+[2025-12-07T07:50:55.296Z] Initializing Cursor Hooks Service...
+[2025-12-07T07:50:55.296Z] User config path: /home/avi/.cursor/hooks.json
+[2025-12-07T07:50:55.296Z] Project config path: /home/avi/Documents/terraform_tf/.cursor/hooks.json
+[2025-12-07T07:50:55.296Z] Enterprise config path: file:///etc/cursor/hooks.json
+[2025-12-07T07:50:55.296Z] Reloading hooks configuration...
+[2025-12-07T07:50:55.300Z] No enterprise hooks configuration found
+[2025-12-07T07:50:55.301Z] No user hooks configuration found
+[2025-12-07T07:50:55.302Z] No project hooks configuration found
+[2025-12-07T07:50:55.302Z] Refreshing team hooks...
+[2025-12-07T07:50:55.303Z] Cursor Hooks Service initialized successfully

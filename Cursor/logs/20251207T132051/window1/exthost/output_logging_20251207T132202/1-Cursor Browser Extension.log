@@ -1,0 +1,15 @@
+[2025-12-07T07:52:02.477Z] [INFO] [general] Activating Cursor Browser Extension MCP Provider
+[2025-12-07T07:52:02.478Z] [INFO] [general] Initializing Playwright Browser Tools
+[2025-12-07T07:52:02.479Z] [INFO] [general] Using configuration: {"connectionType":"default"}
+[2025-12-07T07:52:02.479Z] [INFO] [general] Using workspace storage directory: /home/avi/.config/Cursor/User/workspaceStorage/32a26f38b824374a0ba529dca5eb2ff3/anysphere.cursor-browser-extension/browser-session
+[2025-12-07T07:52:02.479Z] [INFO] [general] Playwright Browser Tools initialized successfully
+[2025-12-07T07:52:02.479Z] [INFO] [general] Cursor Browser Extension MCP Provider initialized successfully
+[2025-12-07T07:52:02.479Z] [INFO] [general] Cursor Browser Extension MCP Provider registered successfully
+[2025-12-07T07:52:02.541Z] [INFO] [general] Listing available browser tools
+[2025-12-07T07:52:03.205Z] [WARN] [general] No Chrome executable found on linux. Checked paths: /usr/bin/google-chrome, /usr/bin/google-chrome-stable, /usr/bin/google-chrome-beta, /usr/bin/google-chrome-unstable, /usr/bin/chromium-browser, /usr/bin/chromium, /snap/bin/chromium, /var/lib/snapd/snap/bin/chromium, /usr/local/bin/chrome, /usr/local/bin/google-chrome
+[2025-12-07T07:52:03.205Z] [WARN] [general] No Chrome executable found on linux. Checked paths: /usr/bin/google-chrome, /usr/bin/google-chrome-stable, /usr/bin/google-chrome-beta, /usr/bin/google-chrome-unstable, /usr/bin/chromium-browser, /usr/bin/chromium, /snap/bin/chromium, /var/lib/snapd/snap/bin/chromium, /usr/local/bin/chrome, /usr/local/bin/google-chrome
+[2025-12-07T07:52:03.205Z] [WARN] [general] No Chrome executable found on linux. Checked paths: /usr/bin/google-chrome, /usr/bin/google-chrome-stable, /usr/bin/google-chrome-beta, /usr/bin/google-chrome-unstable, /usr/bin/chromium-browser, /usr/bin/chromium, /snap/bin/chromium, /var/lib/snapd/snap/bin/chromium, /usr/local/bin/chrome, /usr/local/bin/google-chrome
+[2025-12-07T07:52:03.689Z] [INFO] [general] Listing available browser tools
+[2025-12-07T07:52:04.115Z] [INFO] [general] Listing available browser tools
+[2025-12-07T07:54:19.727Z] [INFO] [general] Deactivating Cursor Browser Extension MCP Provider
+[2025-12-07T07:54:19.738Z] [INFO] [general] Playwright MCP Provider disposed

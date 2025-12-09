@@ -1,0 +1,32 @@
+2025-12-06 02:44:53.019 [info] Extension host with pid 28629 started
+2025-12-06 02:44:53.019 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/fish
+2025-12-06 02:44:53.019 [info] Skipping acquiring lock for /home/avi/.config/Cursor/User/workspaceStorage/5e4cd22b7a25213f99d04849b3abc653.
+2025-12-06 02:44:53.044 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-06 02:44:53.060 [info] ExtensionService#_doActivateExtension hashicorp.terraform, startup: false, activationEvent: 'onLanguage:terraform'
+2025-12-06 02:44:53.189 [warning] registerMcpServerDefinitionProvider is not supported in Cursor
+2025-12-06 02:44:53.243 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: anysphere.cursor-agent-exec
+2025-12-06 02:44:53.246 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: anysphere.cursor-agent-exec
+2025-12-06 02:44:53.284 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-06 02:44:53.359 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: true, activationEvent: '*', root cause: anysphere.cursor-agent-exec
+2025-12-06 02:44:53.550 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: true, activationEvent: '*'
+2025-12-06 02:44:53.809 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'api', root cause: anysphere.cursor-agent-exec
+2025-12-06 02:44:54.001 [info] Eager extensions activated
+2025-12-06 02:44:54.021 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-12-06 02:44:54.274 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onStartupFinished'
+2025-12-06 02:44:54.297 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-connect, startup: false, activationEvent: 'onStartupFinished'
+2025-12-06 02:44:54.332 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-extension, startup: false, activationEvent: 'onStartupFinished'
+2025-12-06 02:44:54.528 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-12-06 02:44:54.604 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-12-06 02:44:54.681 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-06 02:44:54.684 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-06 02:46:06.758 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-06 02:46:06.786 [error] Error: Channel has been closed
+	at r (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:3270)
+	at Object.appendLine (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:3409)
+	at m (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:244518)
+	at t.deactivate (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:244377)
+	at /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3158351
+	at t.deactivate (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3158409)
+	at async Promise.all (index 1)
+	at async vjt._deactivateAll (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:12476)
+2025-12-06 02:46:06.788 [info] Extension host with pid 28629 exiting with code 0

@@ -1,2 +1,3 @@
-2025/12/02-01:39:25.594 c7e7 Creating DB /home/avi/.config/Cursor/Session Storage since it was missing.
-2025/12/02-01:39:25.597 c7e7 Reusing MANIFEST /home/avi/.config/Cursor/Session Storage/MANIFEST-000001
+2025/12/06-16:43:37.133 18357 Reusing MANIFEST /home/avi/.config/Cursor/Session Storage/MANIFEST-000001
+2025/12/06-16:43:37.133 18357 Recovering log #3
+2025/12/06-16:43:37.134 18357 Reusing old log /home/avi/.config/Cursor/Session Storage/000003.log 

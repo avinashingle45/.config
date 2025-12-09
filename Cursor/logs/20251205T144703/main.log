@@ -1,0 +1,46 @@
+2025-12-05 14:47:03.527 [info] [CursorProclistService] Native module loaded successfully
+2025-12-05 14:47:03.547 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/2.1.48/d8c59a546f50a9646648be3c4042c049a24037ab84d2f9835198b27405c6b7f6/stable
+2025-12-05 14:47:03.547 [info] update#setState idle
+2025-12-05 14:47:08.148 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2025-12-05 14:47:08.330 [warning] [BrowserViewMainService] Cannot execute JavaScript: browser view not created for window 1
+2025-12-05 14:47:24.625 [warning] [BrowserViewMainService] Cannot flush storage data: browser view not created for window 1
+2025-12-05 14:47:24.632 [warning] [BrowserViewMainService] Cannot set visibility: browser view not created for window 1
+2025-12-05 14:47:24.643 [info] Extension host with pid 129058 exited with code: 0, signal: unknown.
+2025-12-05 14:47:24.664 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 129073]: crashed with code 15 and reason 'killed'
+2025-12-05 14:47:28.225 [warning] [BrowserViewMainService] Cannot execute JavaScript: browser view not created for window 1
+2025-12-05 14:47:28.462 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2025-12-05 14:47:33.549 [info] update#setState checking for updates
+2025-12-05 14:47:33.801 [info] update#setState idle
+2025-12-05 14:52:28.486 [info] [CursorProclistService] Sample 0 created: 18 processes, 31 subsamples
+2025-12-05 14:57:28.488 [info] [CursorProclistService] Sample 1 created: 17 processes, 31 subsamples
+2025-12-05 15:02:30.154 [info] [CursorProclistService] Sample 2 created: 22 processes, 31 subsamples
+2025-12-05 15:07:30.152 [info] [CursorProclistService] Sample 3 created: 22 processes, 31 subsamples
+2025-12-05 15:12:30.151 [info] [CursorProclistService] Sample 4 created: 22 processes, 31 subsamples
+2025-12-05 15:17:30.158 [info] [CursorProclistService] Sample 5 created: 22 processes, 31 subsamples
+2025-12-05 15:22:30.156 [info] [CursorProclistService] Sample 6 created: 22 processes, 31 subsamples
+2025-12-05 15:27:30.151 [info] [CursorProclistService] Sample 7 created: 22 processes, 31 subsamples
+2025-12-05 15:32:30.150 [info] [CursorProclistService] Sample 8 created: 22 processes, 31 subsamples
+2025-12-05 15:37:30.153 [info] [CursorProclistService] Sample 9 created: 22 processes, 31 subsamples
+2025-12-05 15:42:30.149 [info] [CursorProclistService] Sample 10 created: 22 processes, 31 subsamples
+2025-12-05 15:50:52.759 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-05 15:52:41.869 [info] [CursorProclistService] Sample 11 created: 22 processes, 31 subsamples
+2025-12-05 15:52:46.940 [info] update#setState checking for updates
+2025-12-05 15:52:47.641 [info] update#setState idle
+2025-12-05 15:57:41.873 [info] [CursorProclistService] Sample 12 created: 22 processes, 31 subsamples
+2025-12-05 16:02:41.878 [info] [CursorProclistService] Sample 13 created: 22 processes, 31 subsamples
+2025-12-05 16:07:41.875 [info] [CursorProclistService] Sample 14 created: 22 processes, 31 subsamples
+2025-12-05 16:12:41.869 [info] [CursorProclistService] Sample 15 created: 22 processes, 31 subsamples
+2025-12-05 16:17:41.876 [info] [CursorProclistService] Sample 16 created: 22 processes, 31 subsamples
+2025-12-05 16:22:41.878 [info] [CursorProclistService] Sample 17 created: 22 processes, 31 subsamples
+2025-12-05 16:27:42.645 [info] [CursorProclistService] Sample 18 created: 22 processes, 31 subsamples
+2025-12-05 16:32:42.635 [info] [CursorProclistService] Sample 19 created: 22 processes, 31 subsamples
+2025-12-05 16:37:42.634 [info] [CursorProclistService] Sample 20 created: 22 processes, 31 subsamples
+2025-12-05 16:42:42.646 [info] [CursorProclistService] Sample 21 created: 22 processes, 31 subsamples
+2025-12-05 16:47:42.641 [info] [CursorProclistService] Sample 22 created: 22 processes, 31 subsamples
+2025-12-05 16:52:42.636 [info] [CursorProclistService] Sample 23 created: 22 processes, 31 subsamples
+2025-12-05 16:52:47.708 [info] update#setState checking for updates
+2025-12-05 16:52:48.492 [info] update#setState idle
+2025-12-05 16:57:07.939 [warning] [BrowserViewMainService] Cannot flush storage data: browser view not created for window 1
+2025-12-05 16:57:07.968 [warning] [BrowserViewMainService] Cannot set visibility: browser view not created for window 1
+2025-12-05 16:57:07.992 [info] Extension host with pid 129883 exited with code: 0, signal: unknown.
+2025-12-05 16:57:08.044 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 129868]: crashed with code 15 and reason 'killed'

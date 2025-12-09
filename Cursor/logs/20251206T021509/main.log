@@ -1,0 +1,15 @@
+2025-12-06 02:15:09.561 [info] [CursorProclistService] Native module loaded successfully
+2025-12-06 02:15:09.624 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/2.1.48/d8c59a546f50a9646648be3c4042c049a24037ab84d2f9835198b27405c6b7f6/stable
+2025-12-06 02:15:09.624 [info] update#setState idle
+2025-12-06 02:15:13.321 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2025-12-06 02:15:13.641 [warning] [BrowserViewMainService] Cannot execute JavaScript: browser view not created for window 1
+2025-12-06 02:15:39.626 [info] update#setState checking for updates
+2025-12-06 02:15:40.180 [info] update#setState available for download
+2025-12-06 02:20:13.346 [info] [CursorProclistService] Sample 0 created: 19 processes, 31 subsamples
+2025-12-06 02:25:13.344 [info] [CursorProclistService] Sample 1 created: 17 processes, 31 subsamples
+2025-12-06 02:30:13.337 [info] [CursorProclistService] Sample 2 created: 21 processes, 31 subsamples
+2025-12-06 02:35:13.345 [info] [CursorProclistService] Sample 3 created: 21 processes, 31 subsamples
+2025-12-06 02:40:13.346 [info] [CursorProclistService] Sample 4 created: 21 processes, 31 subsamples
+2025-12-06 02:43:06.060 [warning] [BrowserViewMainService] Cannot flush storage data: browser view not created for window 1
+2025-12-06 02:43:06.105 [info] Extension host with pid 19727 exited with code: 0, signal: unknown.
+2025-12-06 02:43:06.117 [warning] [BrowserViewMainService] Cannot set visibility: browser view not created for window 1

@@ -1,6 +1,8 @@
 [Added Associations]
 application/vnd.ms-publisher=vim.desktop;
+video/x-matroska=vlc.desktop;mpv.desktop;
 
 [Default Applications]
 application/vnd.ms-publisher=vim.desktop;
 inode/directory=org.kde.dolphin.desktop
+video/x-matroska=vlc.desktop;

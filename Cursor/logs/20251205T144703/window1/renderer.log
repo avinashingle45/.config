@@ -1,0 +1,1275 @@
+2025-12-05 14:47:05.055 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-05 14:47:05.059 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:05.060 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:05.060 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:05.060 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:05.060 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:05.061 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:05.061 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:05.061 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:05.061 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:05.566 [info] Started local extension host with pid 129058.
+2025-12-05 14:47:06.498 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/fish
+2025-12-05 14:47:06.571 [warning] No search provider registered for scheme: file, waiting
+2025-12-05 14:47:06.589 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/fish
+2025-12-05 14:47:06.788 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2025-12-05 14:47:06.788 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2025-12-05 14:47:06.984 [info] [ShellExec] Created session 8e480e96-a1d6-47d8-99c8-739b7ce0a90f on LocalProcess host
+2025-12-05 14:47:07.335 [error] [Extension Host] (node:129058) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-05 14:47:08.065 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2025-12-05 14:47:08.065 [info] [Debug] Registered command palette action: debug.logComposer
+2025-12-05 14:47:08.065 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2025-12-05 14:47:08.065 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2025-12-05 14:47:08.078 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2025-12-05 14:47:08.160 [info] [Cursor Proclist Polling] Config applied to Main process
+2025-12-05 14:47:08.160 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2025-12-05 14:47:09.181 [info] [perf] Render performance baseline is 18ms
+2025-12-05 14:47:24.653 [info] [Cursor Proclist Polling] Stopped polling
+2025-12-05 14:47:25.651 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-12-05 14:47:25.654 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:25.654 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:25.655 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:25.655 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:25.655 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:25.655 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:25.655 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:25.655 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:25.655 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 14:47:26.025 [info] Started local extension host with pid 129883.
+2025-12-05 14:47:26.514 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2025-12-05 14:47:26.514 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2025-12-05 14:47:26.845 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/fish
+2025-12-05 14:47:26.846 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/fish
+2025-12-05 14:47:26.888 [warning] No search provider registered for scheme: file, waiting
+2025-12-05 14:47:27.381 [error] [Extension Host] (node:129883) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-05 14:47:27.616 [info] [ShellExec] Created session 9129e95c-c860-46c6-ba24-a9d30496113a on LocalProcess host
+2025-12-05 14:47:28.433 [info] [Debug] Registered command palette action: debug.logComposer
+2025-12-05 14:47:28.433 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2025-12-05 14:47:28.433 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2025-12-05 14:47:28.433 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2025-12-05 14:47:28.440 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2025-12-05 14:47:28.478 [info] [Cursor Proclist Polling] Config applied to Main process
+2025-12-05 14:47:28.479 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2025-12-05 14:47:29.122 [info] [perf] Render performance baseline is 22ms
+2025-12-05 14:48:39.745 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 14:48:39.746 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 14:48:39.747 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 14:48:39.747 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 14:48:39.747 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 14:48:39.748 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 14:48:39.748 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 14:48:39.748 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 14:49:14.371 [warning] Authentication provider HashiCorpTerraformCloud was not declared in the Extension Manifest.
+2025-12-05 14:50:33.656 [error] main.tf (14,18): position outside of any attribute name, value or block: Error: main.tf (14,18): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (14,18): position outside of any attribute name, value or block
+2025-12-05 14:50:35.059 [error] main.tf (14,18): position outside of any attribute name, value or block: Error: main.tf (14,18): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (14,18): position outside of any attribute name, value or block
+2025-12-05 14:50:59.946 [error] main.tf (11,45): position outside of "resource" body: Error: main.tf (11,45): position outside of "resource" body
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (11,45): position outside of "resource" body
+2025-12-05 14:51:24.443 [warning] Semantic token with invalid length detected at lineNumber 11, column 1
+2025-12-05 14:52:28.489 [info] [Cursor Proclist] Samples written: 18 local processes, 0 remote processes
+2025-12-05 14:54:59.089 [error] main.tf (15,48): position outside of any attribute name, value or block: Error: main.tf (15,48): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (15,48): position outside of any attribute name, value or block
+2025-12-05 14:57:28.491 [info] [Cursor Proclist] Samples written: 17 local processes, 0 remote processes
+2025-12-05 14:59:08.275 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at PDo.shouldTabInsteadOfAccepting (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:25070)
+    at PDo.updateShouldAcceptTabContextKey (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:5716)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:11752)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 14:59:08.276 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at H2e._getRangeOfSelectionUnlessWhitespaceEnclosed (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39922)
+    at H2e.update (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:40731)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39454)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 14:59:45.037 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at aF.deltaDecorations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:5084)
+    at PDo.clearDecorationsSlowEnumeratesAllDecorations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:13388)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:29867)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:19695)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at G3a._emitOutgoingEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:35929)
+    at G3a.endEmitViewEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:36627)
+    at G3a.emitSingleViewEvent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:36733)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:71829)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at E3a.doFire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20197)
+    at E3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:19174)
+    at aF.deltaDecorations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:5292)
+    at ADo.clearPrediction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:29625)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:37222)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:20253)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at G3a._emitOutgoingEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:35929)
+    at G3a.endEmitViewEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:36627)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4762
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3271)
+    at cC._type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:9870)
+    at cC.trigger (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:8788)
+    at zar.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:38422)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at i.handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:84986)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Object.type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:21492)
+    at vFa.type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:99:6259)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:246:7772)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:7233)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at HTMLTextAreaElement.n (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:96:68630) Invoking deltaDecorations recursively could lead to leaking decorations.
+2025-12-05 14:59:45.046 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at aF.deltaDecorations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:5084)
+    at ADo.clearPrediction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:29625)
+    at ADo.clearCursorPrediction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:26250)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:30220)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:19695)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at G3a._emitOutgoingEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:35929)
+    at G3a.endEmitViewEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:36627)
+    at G3a.emitSingleViewEvent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:36733)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:71829)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at E3a.doFire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20197)
+    at E3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:19174)
+    at aF.deltaDecorations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:5292)
+    at ADo.clearPrediction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:29625)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:37222)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:20253)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at G3a._emitOutgoingEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:35929)
+    at G3a.endEmitViewEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:36627)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4762
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3271)
+    at cC._type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:9870)
+    at cC.trigger (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:8788)
+    at zar.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:38422)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at i.handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:84986)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Object.type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:21492)
+    at vFa.type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:99:6259)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:246:7772)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:7233)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at HTMLTextAreaElement.n (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:96:68630) Invoking deltaDecorations recursively could lead to leaking decorations.
+2025-12-05 14:59:45.047 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at aF.deltaDecorations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:5084)
+    at PDo.clearDecorationsFast (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14098)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:30852)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:19695)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at G3a._emitOutgoingEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:35929)
+    at G3a.endEmitViewEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:36627)
+    at G3a.emitSingleViewEvent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:36733)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:71829)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at E3a.doFire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20197)
+    at E3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:19174)
+    at aF.deltaDecorations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:5292)
+    at ADo.clearPrediction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:29625)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:37222)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:20253)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at G3a._emitOutgoingEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:35929)
+    at G3a.endEmitViewEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:36627)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4762
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3271)
+    at cC._type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:9870)
+    at cC.trigger (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:8788)
+    at zar.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:38422)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at i.handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:84986)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Object.type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:21492)
+    at vFa.type (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:99:6259)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:246:7772)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:7233)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at HTMLTextAreaElement.n (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:96:68630) Invoking deltaDecorations recursively could lead to leaking decorations.
+2025-12-05 15:02:25.057 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at PDo.shouldTabInsteadOfAccepting (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:25070)
+    at PDo.updateShouldAcceptTabContextKey (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:5716)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:11752)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:25.058 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at H2e._getRangeOfSelectionUnlessWhitespaceEnclosed (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39922)
+    at H2e.update (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:40731)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39454)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:25.214 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at PDo.shouldTabInsteadOfAccepting (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:25070)
+    at PDo.updateShouldAcceptTabContextKey (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:5716)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:11752)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:25.215 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at H2e._getRangeOfSelectionUnlessWhitespaceEnclosed (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39922)
+    at H2e.update (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:40731)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39454)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:25.621 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at PDo.shouldTabInsteadOfAccepting (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:25070)
+    at PDo.updateShouldAcceptTabContextKey (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:5716)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:11752)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:25.622 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at H2e._getRangeOfSelectionUnlessWhitespaceEnclosed (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39922)
+    at H2e.update (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:40731)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39454)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:25.871 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at PDo.shouldTabInsteadOfAccepting (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:25070)
+    at PDo.updateShouldAcceptTabContextKey (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:5716)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:11752)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:25.872 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at H2e._getRangeOfSelectionUnlessWhitespaceEnclosed (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39922)
+    at H2e.update (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:40731)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39454)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:27.360 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at PDo.shouldTabInsteadOfAccepting (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:25070)
+    at PDo.updateShouldAcceptTabContextKey (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:5716)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:11752)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:27.361 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at H2e._getRangeOfSelectionUnlessWhitespaceEnclosed (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39922)
+    at H2e.update (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:40731)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39454)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:30.158 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 15:02:32.345 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at PDo.shouldTabInsteadOfAccepting (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:25070)
+    at PDo.updateShouldAcceptTabContextKey (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:5716)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:11752)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:32.346 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at H2e._getRangeOfSelectionUnlessWhitespaceEnclosed (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39922)
+    at H2e.update (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:40731)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39454)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:02:53.394 [error] main.tf (75,4): unknown block type "f": Error: main.tf (75,4): unknown block type "f"
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (75,4): unknown block type "f"
+2025-12-05 15:03:17.349 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at PDo.shouldTabInsteadOfAccepting (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:25070)
+    at PDo.updateShouldAcceptTabContextKey (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9025:5716)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:11752)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:03:17.363 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at aF.getLineContent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:283:5426)
+    at H2e._getRangeOfSelectionUnlessWhitespaceEnclosed (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39922)
+    at H2e.update (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:40731)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2812:39454)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at Zb.change (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:439:1126)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14543)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at PDo.continueModelChangeListener (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9017:843)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9019:775
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:280:7580)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at x3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20843)
+    at aF.pushEditOperations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:287:867)
+    at aNt._innerExecuteCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:5492)
+    at aNt.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4910)
+    at Gdr._executeEditOperation (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:46837)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3234
+    at Gdr._executeEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:1061)
+    at Gdr.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:3211)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3690
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4727
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a._executeCursorEdit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2986)
+    at R9a.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:3655)
+    at cC.executeCommands (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:11296)
+    at e.runCoreEditingCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:37344)
+    at e.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:35801)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11975
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11884
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at cC.invokeWithinContext (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:17463)
+    at qPo.runEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11809)
+    at e.runCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:11922)
+    at handler (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:10323)
+    at yMo.invokeFunction (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7398:960)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2850
+    at Gor (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44328)
+    at fq (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:52:44289)
+    at Voo._tryExecuteCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2703)
+    at Voo.executeCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7007:2050)
+    at Vzt._doDispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:23396)
+    at Vzt._dispatch (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6990:19819)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6991:3248 Illegal value for lineNumber
+2025-12-05 15:07:30.155 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 15:07:44.307 [error] main.tf (6,66): position outside of any attribute name, value or block: Error: main.tf (6,66): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (6,66): position outside of any attribute name, value or block
+2025-12-05 15:08:18.989 [error] main.tf (5,76): position outside of any attribute name, value or block: Error: main.tf (5,76): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (5,76): position outside of any attribute name, value or block
+2025-12-05 15:08:19.305 [error] main.tf (5,79): position outside of any attribute name, value or block: Error: main.tf (5,79): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (5,79): position outside of any attribute name, value or block
+2025-12-05 15:08:27.632 [error] main.tf (5,78): position outside of any attribute name, value or block: Error: main.tf (5,78): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (5,78): position outside of any attribute name, value or block
+2025-12-05 15:08:27.650 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at aF.deltaDecorations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:5084)
+    at h_s.removeAllWidgetsInEditorNotModel (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6350:7946)
+    at h_s.removeAllInEditorNotModel (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6354:4279)
+    at h_s.update (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6354:3346)
+    at _Ee.update (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6356:3765)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:6356:1008)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3137)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:20001)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at G3a._emitOutgoingEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:35929)
+    at G3a.emitOutgoingEvent (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:35492)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:71883)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at E3a.doFire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:20197)
+    at E3a.endDeferredEmit (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:19174)
+    at aF.deltaDecorations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:5292)
+    at PDo.clearDecorationsFast (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14343)
+    at PDo.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:14419)
+    at PDo.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9024:12969)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9015:31213)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3053)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3390)
+    at zPt.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:19695)
+    at _e._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:2962)
+    at _e.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:49:3283)
+    at G3a._emitOutgoingEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:35929)
+    at G3a.endEmitViewEvents (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:289:36627)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4762
+    at Object.batchChanges (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:293:18639)
+    at R9a._withViewEventsCollector (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:4646)
+    at R9a.setCursorStates (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:2017)
+    at e.runCoreEditorCommand (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:15191)
+    at vFa.moveTo (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:99:8687)
+    at vFa.dispatchMouse (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:99:8490)
+    at rFa._dispatchMouse (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:96:64323)
+    at rFa.start (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:96:62212)
+    at mFa._onMouseDown (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:96:59815)
+    at vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:96:56658
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:93:27354) Invoking deltaDecorations recursively could lead to leaking decorations.
+2025-12-05 15:08:29.360 [error] main.tf (5,78): position outside of any attribute name, value or block: Error: main.tf (5,78): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (5,78): position outside of any attribute name, value or block
+2025-12-05 15:09:29.927 [error] main.tf (9,12): position outside of any attribute name, value or block: Error: main.tf (9,12): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (9,12): position outside of any attribute name, value or block
+2025-12-05 15:09:30.329 [error] main.tf (11,7): position outside of any attribute name, value or block: Error: main.tf (11,7): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (11,7): position outside of any attribute name, value or block
+2025-12-05 15:10:07.099 [error] main.tf (79,9): position outside of any attribute name, value or block: Error: main.tf (79,9): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (79,9): position outside of any attribute name, value or block
+2025-12-05 15:10:07.894 [error] main.tf (79,7): position outside of any attribute name, value or block: Error: main.tf (79,7): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (79,7): position outside of any attribute name, value or block
+2025-12-05 15:10:11.326 [error] main.tf (79,9): position outside of any attribute name, value or block: Error: main.tf (79,9): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (79,9): position outside of any attribute name, value or block
+2025-12-05 15:10:28.670 [error] main.tf (79,18): position outside of any attribute name, value or block: Error: main.tf (79,18): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (79,18): position outside of any attribute name, value or block
+2025-12-05 15:12:30.153 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 15:13:28.422 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 15:13:28.422 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 15:13:28.422 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 15:13:28.422 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 15:13:28.423 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 15:13:28.423 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 15:13:28.423 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 15:13:28.423 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2025-12-05 15:13:59.280 [warning] ToolCallEventService: Tracked tool call start - call_igcaJns47cahMM2n0w1FjAt6
+fc_03d86857c37b3748016932a95f1b308193adfe5cdd46e5a1c4 (read_file)
+2025-12-05 15:14:00.844 [warning] ToolCallEventService: Tracked tool call start - call_BRKkm8brXnE9x19EnjQg65Ry
+fc_03d86857c37b3748016932a95f21dc8193a13757a00073e6d2 (read_file)
+2025-12-05 15:14:18.067 [warning] ToolCallEventService: Tracked tool call start - call_w2muPoLLpxB9kefkMxaMIzjE
+ctc_03d86857c37b3748016932a971dc508193b285d9738a2d983f (apply_patch)
+2025-12-05 15:14:28.015 [warning] ToolCallEventService: Tracked tool call end - call_w2muPoLLpxB9kefkMxaMIzjE
+ctc_03d86857c37b3748016932a971dc508193b285d9738a2d983f
+2025-12-05 15:15:01.037 [error] main.tf (87,1): position outside of any attribute name, value or block: Error: main.tf (87,1): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (87,1): position outside of any attribute name, value or block
+2025-12-05 15:15:31.645 [error] main.tf (10,17): position outside of any attribute name, value or block: Error: main.tf (10,17): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (10,17): position outside of any attribute name, value or block
+2025-12-05 15:15:34.995 [warning] ToolCallEventService: Tracked tool call start - call_EhvzxjyW2Us4EBEZWpbzT0KK
+fc_0f7fabc045c8f764016932a9be7ccc8197b8d40d02ab4b7f63 (read_file)
+2025-12-05 15:15:35.417 [warning] ToolCallEventService: Tracked tool call start - call_zkVluzByQOc2rAgLzHrjXlTo
+fc_0f7fabc045c8f764016932a9bedb888197b2748ebe48ac6ccf (read_file)
+2025-12-05 15:15:49.551 [warning] ToolCallEventService: Tracked tool call start - call_rVtzJfGA3y7YfK1mFERQnHcp
+ctc_0f7fabc045c8f764016932a9cd60048197a78986faba849ddb (apply_patch)
+2025-12-05 15:15:50.482 [warning] ToolCallEventService: Tracked tool call end - call_rVtzJfGA3y7YfK1mFERQnHcp
+ctc_0f7fabc045c8f764016932a9cd60048197a78986faba849ddb
+2025-12-05 15:15:59.552 [error] main.tf (14,21): position outside of any attribute name, value or block: Error: main.tf (14,21): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (14,21): position outside of any attribute name, value or block
+2025-12-05 15:17:10.700 [error] main.tf (10,15): position outside of any attribute name, value or block: Error: main.tf (10,15): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (10,15): position outside of any attribute name, value or block
+2025-12-05 15:17:11.038 [error] main.tf (10,17): position outside of any attribute name, value or block: Error: main.tf (10,17): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (10,17): position outside of any attribute name, value or block
+2025-12-05 15:17:30.163 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 15:22:30.159 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 15:25:17.038 [error] main.tf (75,33): position outside of any attribute name, value or block: Error: main.tf (75,33): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (75,33): position outside of any attribute name, value or block
+2025-12-05 15:27:30.154 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 15:31:23.091 [error] main.tf (81,29): position outside of any attribute name, value or block: Error: main.tf (81,29): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (81,29): position outside of any attribute name, value or block
+2025-12-05 15:31:24.441 [error] main.tf (81,30): position outside of any attribute name, value or block: Error: main.tf (81,30): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) main.tf (81,30): position outside of any attribute name, value or block
+2025-12-05 15:32:30.152 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 15:36:42.505 [error] variable.tf (2,11): position outside of any attribute name, value or block: Error: variable.tf (2,11): position outside of any attribute name, value or block
+	at en (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:25:241)
+	at yt (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6288)
+	at gr (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6418)
+	at Immediate.<anonymous> (/home/avi/.cursor/extensions/hashicorp.terraform-2.37.6-linux-x64/dist/extension.js:24:6169)
+	at process.processImmediate (node:internal/timers:485:21) variable.tf (2,11): position outside of any attribute name, value or block
+2025-12-05 15:37:30.155 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 15:42:30.151 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 15:52:41.876 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 15:57:41.876 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:02:41.881 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:07:41.880 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:12:41.872 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:17:41.883 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:22:41.901 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:27:42.647 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:32:42.637 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:37:42.636 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:42:42.653 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:47:42.644 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:52:42.661 [info] [Cursor Proclist] Samples written: 22 local processes, 0 remote processes
+2025-12-05 16:57:07.999 [info] [Cursor Proclist Polling] Stopped polling
